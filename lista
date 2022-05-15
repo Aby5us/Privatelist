@@ -877,7 +877,7 @@ http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1140
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Panavision_logo.svg/1200px-Panavision_logo.svg.png", Panavision
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Paramount_Pictures_Corporation_logo.svg",Paramount
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmhhNISbZUnH-IXV5mdF1SFWTfQICcMKItyhpD=s900-c-k-c0x00ffffff-no-rj",Paramount
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/774
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png",PASIONES 
@@ -889,7 +889,7 @@ https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9sr9dttWK_lLIJvmTufooeHtcT52xK3TAzaaIuu7NzzKgZvYKqxzI09WXktqpYYmA7pY&usqp=CAU", Películas smart
 http://190.108.83.142:8000/play/a009/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://planeatvamazonas.com/wp-content/uploads/2021/05/logo-tv.png", Planea TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEDfq14-IL-mlYONZHVsOsWAbf_xML3A9UZw&usqp=CAU", Planea TV
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/04/68de664a-a587-4a7a-b715-4fea516ff0f5.jpg", Planeta tv
@@ -1265,22 +1265,22 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzObWJgQK0ymsLl1oJ3BDrQgsjenFLRvlHhUO5C-JqXz8s28G6R0Fhr152R6bMGoJTEuA&usqp=CAU", Tvr
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="", Tvs Maracaibo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyw2HDfwyvWPearHX5DnaEv5DQXCTq0Gu-LnGLeNh_mJKhi-tve_KrObdWldngoNaRmfs&usqp=CAU", Tvs Maracaibo
 http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="", Tvs
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950878950149914624/1UJUmn-2_400x400.jpg", Tvs
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
  
-#EXTINF:-1 tvg-logo="", Tv somos del este
+#EXTINF:-1 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png", Tv somos del este
 https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrjRAd0JcPMFzz2y64Tkb7exJFjxkdImjf4dcnai3uoxpSKQ-hThkI-RyIHQTSWevw4uc&usqp=CAU",Tv sur
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8 
  
-#EXTINF:-1 tvg-logo="", Tv tropical
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNlxwXCHEnECsY4kcnUFTm5mnY5csfx1n_AgSI0Z02nL4VAcVcyQTM5wjQmocu-H3nBwY&usqp=CAU", Tv tropical
 https://cloud2.streaminglivehd.com:1936/8222/8222/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="", TVU
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nHu6eTf30jhhe585-zmys5spn-OyDBA6-GXQHG4HEhvT7J89evsK-jVL3I8Tb5-Lsw", TVU
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/e43e6e743eebadfb662e235ca68fe3f2.png",TyC sports
@@ -1289,19 +1289,19 @@ http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1812
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsvGs48UfLG9oPGv_94PsypufsvdkuJ6vIqoPZhw=s900-c-k-c0x00ffffff-no-rj",Unicable
 http://tv-cool.com:25461/gabjha593/056b5314ff/40979
  
-#EXTINF:-1 tvg-logo="", Unicanal
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVrx8r-2q9l_wbI_V9Oo8FFc6FUfEAvtGktb-WSJyj-Wqp03iJtSQ1UbIOkCsGuvibM0&usqp=CAU", Unicanal
 http://45.55.127.106/live/unicanal.m3u8
  
-#EXTINF:-1 tvg-logo="", Uchu tv
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/iHxFTbI9rCtN9oxQPQB9EAQD71yvV8MQYiGG7k8kYdWfEtcmDRzj6SJ_YIFstzMHY7C5Yxriow=s900-c-k-c0x00ffffff-no-rj", Uchu tv
 http://190.108.83.142:8000/play/a006/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-k9QBs3LJD_g/YX77VJ8KNGI/AAAAAAABGHI/mlJ-TTmjcfoYaL2f4_re43dtDisPgM5kwCLcBGAsYHQ/s800/UniMa%25CC%2581s%2B-%2BLogo%2B2021.jpeg",Unimas
 http://tv-cool.com:25461/gabjha593/056b5314ff/30267
  
-#EXTINF:-1 tvg-logo="", Unitel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg", Unitel
 https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="", Unitv
+#EXTINF:-1 tvg-logo="https://sc04.alicdn.com/kf/H270cf5560da343a7a340ce66571d9567Z.jpg", Unitv
 https://tvdatta.com:3670/live/universitariatvlive.m3u8
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTjIyPYi9waLUSCbuRygKkdmYeBDYP0ODjRfiJh-A=s900-c-k-c0x00ffffff-no-rj",Universal
@@ -1310,7 +1310,7 @@ http://tv.fullytv.com:8080/zuli/1234/3068
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png", Universal cinema
 http://tv-cool.com:25461/gabjha593/056b5314ff/73998
  
-#EXTINF:-1 tvg-logo="", Universal comedy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Universal_Comedy_logo.png", Universal comedy
 http://tv-cool.com:25461/gabjha593/056b5314ff/76354
  
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png", Universal Crime
@@ -1328,13 +1328,13 @@ http://tv-cool.com:25461/gabjha593/056b5314ff/30324
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1411007291915182090/VsOVvKpj_400x400.png",Univision
 http://ultra-premium-pro.xyz:8080/pato/pato/12356
  
-#EXTINF:-1 tvg-logo="", Uranio tv
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima98001053557.jpg", Uranio tv
 https://live.obslivestream.com/uraniomux/index.m3u8
  
-#EXTINF:-1 tvg-logo="", Urbano tv
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png", Urbano tv
 http://177.53.152.186:8000/play/a012/index.m3u8
  
-#EXTINF:-1 tvg-logo="", Vallevision
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IBcNGeLfkQs/maxresdefault.jpg", Vallevision
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
  
 #EXTINF:-1 tvg-logo="http://radiovamisa.tv/wp-content/uploads/2020/03/logo.png", Vamisa tv
@@ -1343,14 +1343,14 @@ https://vps1.lnx.pe/vamisa/envivo/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042013/via_alto_mayo.png?itok=EGPtW5nL", Via altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
  
-#EXTINF:-1 tvg-logo="", Villa Alta gracia
+#EXTINF:-1 tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-01-at-8.35.28-AM.jpeg", Villa Alta gracia
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w" ,VIWIX Tv
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="", VZ tv
-https://live.obslivestream.com/vzmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://vzproducciones.online/wp-content/uploads/2021/07/logo1.png", VZ tv
+https://live.obslivestream.com/vztvmux/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://media.metrolatam.com/2019/05/09/losandinos-da58f048c4efe362c227bb8d157bb068-1200x800.jpg",WAPA
 http://globalentertainmentec.xyz:8000/Elias2022/Elias2022/3360
@@ -1373,14 +1373,11 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wuanplus.tv/wp-content/uploads/2017/10/cropped-2-WUAN-Orange-RGB-para-WEB.png" ,WUAN+
 https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="", Wtv
+#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQJYlaCX1UArt5jM5r0sYe2E46sgxqbpuudC75Qaw=s900-c-k-c0x00ffffff-no-rj", Wtv
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i2.wp.com/ontapsportsnet.com/wp-content/uploads/2021/01/6d3605bebc83b6f7-1200x675-1.jpg",WWE
 http://globalentertainmentec.xyz:8000/Elias2022/Elias2022/8551
- 
-#EXTINF:-1 tvg-logo="", Xtreme tv
-https://vsd141.mycdn.me/hls/733120891634.m3u8/sig/2fqcRQwT7no/expires/1650148258325/srcIp/201.219.247.142/clientType/1/srcAg/UNKNOWN_ANDROID/mid/1779202006770/video.m3u8?p
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBwqhfd4_IK4PYFgLzB-1Eppjr1ESl8DW1IHIsbC_jBEOorcwzvUsVLr1hSF343XNinLc&usqp=CAU", Xtv
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
