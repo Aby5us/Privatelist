@@ -728,7 +728,7 @@ https://tvdatta.com:3025/hybrid/play.m3u8
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xqU__M3Gh6M/maxresdefault.jpg",Magic kids
-https://poast.tv/static/streaming-playlists/hls/fc9e3b77-176e-46b1-b610-bf61910de78a/0.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.twitch.tv/retromagico
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/M%C3%A1s_23.png",Mas 23 tv
 http://tv-cool.com:25461/gabjha593/056b5314ff/72594
@@ -819,7 +819,10 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/disney_shop_landing_mobile_800x600px_d34fb8c4.png",Nat Geo
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1037
- 
+
+#EXTINF:-1 tvg-logo="", Nativa
+https://servilive.com:3449/live/mlecaroslive.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/globals/img/placeholder.png" ,Net tv
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
  
@@ -834,7 +837,10 @@ http://tv-cool.com:25461/gabjha593/056b5314ff/41287
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTG_wFVCGhfYUbqSfEFTe-Gzj-DKXaeoyr1Io5R=s900-c-k-c0x00ffffff-no-rj" ,Nick jr
 http://tv-cool.com:25461/gabjha593/056b5314ff/32743
- 
+
+#EXTINF:-1 tvg-logo="", Norte vision
+https://eu1.servers10.com:8081/8092/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ddf4c137fb00b676cefdddfb13fe299d6c3562be3da937576e2f7763d1483771.png", Ñuble rtv
 https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
  
@@ -876,7 +882,10 @@ http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1140
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Panavision_logo.svg/1200px-Panavision_logo.svg.png", Panavision
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Paraíso Digital
+https://cloudvideo.servers10.com:8081/8106/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmhhNISbZUnH-IXV5mdF1SFWTfQICcMKItyhpD=s900-c-k-c0x00ffffff-no-rj",Paramount
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/774
  
@@ -1034,7 +1043,7 @@ https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 http://tv.fullytv.com:8080/zuli/1234/3069
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c2/Space_logo.jpg/revision/latest/scale-to-width-down/600?cb=20140810225155&path-prefix=es" ,Space
-http://tv-cool.com:25461/gabjha593/056b5314ff/58098
+http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/767
  
 #EXTINF:-1 tvg-logo="http://mma.uno/wp-content/uploads/2017/02/spike-video.jpg" ,Spike TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d11baeb31c5a43b77bf59&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=950&terminate=false&userId=
@@ -1043,7 +1052,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b
 https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyTsdncJoG93jbChaM8bSH6Es3cg5TBNSQTw&usqp=CAU",STAR CHANNEL
-http://tv-cool.com:25461/gabjha593/056b5314ff/29753
+http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/29519
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" ,Studio Universal
 Studio universal
@@ -1086,7 +1095,7 @@ https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 https://servilive.com:3126/live/tele2000live.m3u8
  
 #EXTINF:-1 tvg-logo="https://havanatimesenespanol.org/wp-content/uploads/2020/06/teleamazonas-1280x720.png", Teleamazonas
-http://tv.fullytv.com:8080/zuli/1234/7532
+http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/17295
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Teledoce_%283%29.png/revision/latest?cb=20210401230644&path-prefix=es", Tele canal 12
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/17330
@@ -1119,10 +1128,10 @@ https://videohd.live:19360/8014/8014.m3u8
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-b.m3u8?sd=10&rebase=on 
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Telefuturo-en-vivo-Online.png", Telefuturo
-http://vmpanel.in:80/2022/2022/127583
+http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/54359
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/S73070_h3_aa.png/revision/latest/scale-to-width-down/200?cb=20201011144730",Telehit plus
-http://compitv.info:8080/ADELSO2/Adelso2/64870
+http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/233
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png", Telehit musica
 http://tv.fullytv.com:8080/zuli/1234/3960
@@ -1209,10 +1218,10 @@ https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg",TruTV
-http://tv.fullytv.com:8080/zuli/1234/3231
+http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/29518
  
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA",TUDN
-http://tv-cool.com:25461/gabjha593/056b5314ff/35529
+http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1809
  
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uAHYQ52FlHo/XM-wmAl7DuI/AAAAAAAANf8/1K63fvizDpc-aLzsjCjJq-Ijxq4q01uBwCLcBGAs/s1600/turbomix.jpg", Turbo mix tv
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
@@ -1243,7 +1252,10 @@ https://inliveserver.com:1936/14044/14044/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/dHYubGF0aW5hX3NjcmVlbl8wXzE1NTA3NzcxNzdfMDgy/screen-0.jpg?h=500&fakeurl=1&type=.jpg",Tv Latina 
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", TVM
+http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png", Tvmax
 http://compitv.info:8080/ADELSO2/Adelso2/240199
  
@@ -1311,7 +1323,7 @@ http://tv.fullytv.com:8080/zuli/1234/3068
 http://tv-cool.com:25461/gabjha593/056b5314ff/73998
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Universal_Comedy_logo.png", Universal comedy
-http://tv-cool.com:25461/gabjha593/056b5314ff/76354
+http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/58278
  
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png", Universal Crime
 http://tv-cool.com:25461/gabjha593/056b5314ff/74000
@@ -1377,7 +1389,7 @@ https://streamingwowza.com:1936/wuanplus/wuanplus/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i2.wp.com/ontapsportsnet.com/wp-content/uploads/2021/01/6d3605bebc83b6f7-1200x675-1.jpg",WWE
-http://globalentertainmentec.xyz:8000/Elias2022/Elias2022/8551
+http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/2344
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBwqhfd4_IK4PYFgLzB-1Eppjr1ESl8DW1IHIsbC_jBEOorcwzvUsVLr1hSF343XNinLc&usqp=CAU", Xtv
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
