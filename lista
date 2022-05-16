@@ -90,8 +90,8 @@ http://azxtv.com/hls/stream.m3u8
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png", Antares television
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
- 
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1562813329.m3u8 
+
 #EXTINF=-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVR_QtoxAVJbr2n6c5N_SijaqOGht6tiQX0r9bg7nzIoC2RJyd6BzFbPOIsLAVuufnJ_o&usqp=CAU", Antena 3 esp
 http://tv-cool.com:25461/gabjha593/056b5314ff/42895
  
@@ -101,6 +101,9 @@ http://go.iptvhn.net:25461/Smart/Smart123/6484
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRbD9kfbFGwhSBbexizEQkEVHLGg1Obj3QyswP9=s900-c-k-c0x00ffffff-no-rj", Antofagasta tv
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
  
+#EXTINF=-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBXsazVkHhY5gyl1Eyu3VnABRPxIphIBfXwQ8w7A=s900-c-k-c0x00ffffff-no-rj", Anzoátegui tv
+http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8
+  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2W0kSIbhdm4Rmf0ehJha14SQGzVtZt0GK-ti2XQXmpCuuwGj3Hqpa1VhJi2UmW3TMlgo&usqp=CAU",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
  
@@ -134,9 +137,6 @@ https://5eff35271151c.streamlock.net:1936/8144/8144/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN
 http://go.iptvhn.net:25461/Smart/Smart123/6481
- 
-#EXTINF=-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBXsazVkHhY5gyl1Eyu3VnABRPxIphIBfXwQ8w7A=s900-c-k-c0x00ffffff-no-rj", Anzoátegui tv
-http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" ,Azteca 7
 http://51.222.43.170:36995/BzwTLY5ktB/xm3uB3mPQ9/263435
@@ -838,7 +838,7 @@ http://tv-cool.com:25461/gabjha593/056b5314ff/41287
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTG_wFVCGhfYUbqSfEFTe-Gzj-DKXaeoyr1Io5R=s900-c-k-c0x00ffffff-no-rj" ,Nick jr
 http://tv-cool.com:25461/gabjha593/056b5314ff/32743
 
-#EXTINF:-1 tvg-logo="", Norte vision
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6007db_8a558b04e3a94a9192e5bc6e5b311850~mv2.png/v1/fill/w_440,h_366,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%20NORTE%20VISION%20%20PNG_Mesa%20de%20trabajo%201.png", Norte vision
 https://eu1.servers10.com:8081/8092/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ddf4c137fb00b676cefdddfb13fe299d6c3562be3da937576e2f7763d1483771.png", Ñuble rtv
@@ -1190,7 +1190,7 @@ https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1cGHcT6qoqSm_tNxOqUb27iTbU_jkY6FK3HK0rrAJNuxX3V_aeYo20Z6e8b5D7I8ga3I&usqp=CAU", TNI
 https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1414466413713051658/oGcJtunq_400x400.jpg",TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/2048px-TNT.svg.png",TNT
 http://tv-cool.com:25461/gabjha593/056b5314ff/29781
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_tnt-series_m.png",TNT Series
@@ -1253,7 +1253,7 @@ https://inliveserver.com:1936/14044/14044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/dHYubGF0aW5hX3NjcmVlbl8wXzE1NTA3NzcxNzdfMDgy/screen-0.jpg?h=500&fakeurl=1&type=.jpg",Tv Latina 
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", TVM
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3c/TVM-logo.jpg/revision/latest?cb=20190702172107&path-prefix=es", TVM
 http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png", Tvmax
@@ -1394,16 +1394,16 @@ http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/2344
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBwqhfd4_IK4PYFgLzB-1Eppjr1ESl8DW1IHIsbC_jBEOorcwzvUsVLr1hSF343XNinLc&usqp=CAU", Xtv
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="", Zaracay tv
-https://streamingwowza.com:1936/zaracaytv/smil:zaracaytv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRrbURdrB5H3lMCizVyGzkuHp7zH9M_KXJssOsO=s900-c-k-c0x00ffffff-no-rj", Zaracay tv
+https://streamingwowza.com:19360/zaracay/zaracay.m3u8
  
-#EXTINF:-1 tvg-logo="", ZAZ
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidnDtW7m8eLdpyBSgt6uJZOrO9y1Ubcx0gU3aZiAA3OnOyTVwWX7haUkg_8OAVabUhz-FgIqcpg-0YmS-AGLC9FwmA3QAse0umwEy4auYQjVdJLAWoSY8vnXKzy60RCN2txeKSlunH_ueYaYQSCK0B2eBdLHanlKrvrejkLx10TXzM3gfFthrE3xfh/w1200-h675-p-k-no-nu/noticia2022-zaz-tv.jpg", ZAZ
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/awJFKkErRT8yBwy7jtSHEz0Nigf2fMSwKReLV6Zrqom9mK_SStGDrUjygYwDw4NHoMSc1Afb75Y=s900-c-k-c0x00ffffff-no-rj",Zona Latina
 http://181.78.22.214:8000/play/a01x
  
-#EXTINF:-1 tvg-logo="", Zonda tv
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTQb2s6VuTLEYjQJ0YGcUoKmHCEcXSxxK_cSWRovA=s900-c-k-c0x00ffffff-no-rj", Zonda tv
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51rY-sf4GSL._SY445_.jpg", Alf 24/7
