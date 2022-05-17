@@ -411,7 +411,7 @@ https://ingest-wza.bustream.com/coopetv/smil:rates73.smil/chunklist_w1427470965_
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/canal-trece-costa-rica.png", CR tv
 https://live.obslivestream.com/crtvmux/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9FMTvE24RSw/maxresdefault.jpg",Creotv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpypn604VRfVSj37amOKfQUjv9l9jfEEGI6g&usqp=CAU",Creotv
 https://srv1.mediastreamperu.com/creotv/creotv/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/219_Crossing_TV.png", Crossing
@@ -820,7 +820,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/disney_shop_landing_mobile_800x600px_d34fb8c4.png",Nat Geo
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1037
 
-#EXTINF:-1 tvg-logo="", Nativa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Nativa_FM.svg/1280px-Nativa_FM.svg.png", Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/globals/img/placeholder.png" ,Net tv
@@ -1360,7 +1360,10 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w" ,VIWIX Tv
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPser6GSodW_yqpR_koLgqGybXV71n0zLJZDXG_musm1mAl4nfWIbVc8ygCrN42X41DI&usqp=CAU",Voice over radio tv
+https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://vzproducciones.online/wp-content/uploads/2021/07/logo1.png", VZ tv
 https://live.obslivestream.com/vztvmux/tracks-v1a1/mono.m3u8
  
