@@ -864,7 +864,7 @@ https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2021/07/LOGO-BLANCO-SIN-HD-768x315.png",OK teve
-https://stream.plixitv.live/oktv/oktv/chunklist_w160774811.m3u8
+https://live.obslivestream.com/oktvmux/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://onradiochile.cl/wp-content/uploads/2019/09/logo-app.png" ,On radio
 https://tls-cl.cdnz.cl/adgm-1/live/chunklist_w1203249756.m3u8
@@ -896,7 +896,7 @@ http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1140
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Panavision_logo.svg/1200px-Panavision_logo.svg.png", Panavision
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Paraíso Digital
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nsqWvE-ivpB76poxD40hapy_UoB6WIeeexX4QTChdrYMxcbIPq44MvymidcoBKbjOzY", Paraíso Digital
 https://cloudvideo.servers10.com:8081/8106/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmhhNISbZUnH-IXV5mdF1SFWTfQICcMKItyhpD=s900-c-k-c0x00ffffff-no-rj",Paramount
