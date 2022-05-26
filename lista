@@ -129,7 +129,10 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/5/50545.v24.png", Atv colombia
 https://movil.ejeserver.com/live/verteve.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Atv honduras
+https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://pirikarakochan.com/wp-content/uploads/2019/06/AT-X_logo.svg_.png" ,ATX
 https://sub2.neetball.net/live/neet.m3u8
  
@@ -161,7 +164,7 @@ http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLM6oYazPN4uNutJxyjXXYyNjQU5BJciRXp
 http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLM1_LXU1d7fzCP5TMWxaJ8InJ0o8RwNr_mXWyKrD72Agb/ts
  
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/1/1b/Beinsports.png",Bein sport ñ
-http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLMxB3L4yd8Aw2szEdIzKMgqY4NanONzSebXjfNpOEgY2H/ts
+http://xdgo.live:8080/play/http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLMyhxyuqG6Ln41c764Kx5LEh-IgO3vCP-dJMZZ9EZollf/ts
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtjFc4rSbl7AP5GTgNRgWdD_CiShyXqPxHQ&usqp=CAU", Bellabanquina tv
 https://v4.tustreaming.cl/bellatv/index.m3u8
@@ -478,20 +481,20 @@ http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/29527
 http://tv-cool.com:25461/gabjha593/056b5314ff/44466
  
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/ed/2c/fe/ed2cfeb6643400720e248aed49cc76fb.jpg",Discovery Theater
-http://tv-cool.com:25461/gabjha593/056b5314ff/38336
+http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLM87ThdDBflpkPQM9wQV-Ot2iq2yEl-ZSnxC9uyW27ptc/ts
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",Discovery Turbo
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/973
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/XW9c443L1vk/maxresdefault.jpg" ,Discovery science
-http://tv.fullytv.com:8080/zuli/1234/3082
+http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLM87ThdDBflpkPQM9wQV-Ot3qZpIgi_OcAXhL26emmt2w/ts
  
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-world-logo-C44DE91333-seeklogo.com.png",Discovery World
 Discovery world 
-http://tv-cool.com:25461/gabjha593/056b5314ff/29745
+http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLMxxRc4eV3zeZnfAL2TJrRrhosWXvu3QVecqJsAuo23VG/ts
  
 #EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2018/06/diney-channel.jpg",Disney Channel
-http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/29529
+http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLM5fKw2k1WdUfGFPFgiOKX4md_Jl-Pnc5QEZ2VOuUP5e9/ts
  
 #EXTINF:-1 tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/01/disney-junior.jpg",Disney Jr
 http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLM5fKw2k1WdUfGFPFgiOKX4njKLHOuZ0bo-WLyohqEsP1/ts
@@ -971,7 +974,7 @@ http://v4.tustreaming.cl/quillavision/index.m3u8
 https://servilive.com:3753/live/qosqotimeslive.m3u8
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR9meFQxnyglqMPUHBiYevhW2B22IBR7ZzavcMGog=s900-c-k-c0x00ffffff-no-rj", Quiero musica
-http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/535
+http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLM7C39BrBG3FLH4v9mMwUInrmQ3mBoSki4SBBqmOsHdoU/ts
  
 #EXTINF:-1 tvg-logo="https://inkatropical.pe/wp-content/uploads/2016/02/foto-perfil-inkafacebook-scaled.jpg", Radio Inka tv
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
@@ -1099,7 +1102,10 @@ http://tv-cool.com:25461/gabjha593/056b5314ff/29778
  
 #EXTINF:-1, tvg-logo="https://www.supercanal.com.pe/wp-content/uploads/2020/10/cropped-cropped-favicon-super-cnaal-1-300x182.png",Super Canal
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
- 
+
+#EXTINF:-1, tvg-logo="", Super tv
+https://tvdatta.com:3517/live/kachorrotvlive.m3u8
+
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/SHDH4IzgppTGl6njQIy1ALT2G98AAN8NcRnodTV94MYcNesCeal7FNNKZMTUF7rvnYzRZWSkdA=s900-c-k-c0x00ffffff-no-rj",Surtv
 https://paneltv.online:1936/8034/8034/playlist.m3u8
  
