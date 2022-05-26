@@ -551,7 +551,7 @@ https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproduccion
 http://tv-cool.com:25461/gabjha593/056b5314ff/32741
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/l0UhjdS9VgY/hqdefault.jpg", Extv
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8 
+https://stmv1.voxtvhd.com.br/envivo2525/envivo2525/playlist.m3u8 
  
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s190739/images/logog.png?t=160338", Fabulosa fm
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8
@@ -730,7 +730,7 @@ http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/1750
 #EXTINF:-1 tvg-logo="", La red Uruguay
 https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" ,Las estrellas MEX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" ,Las estrellas 
 http://tv-cool.com:25461/gabjha593/056b5314ff/30321
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg",Latina
