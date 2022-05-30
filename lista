@@ -46,7 +46,7 @@ https://cloudvideo.servers10.com:8081/8126/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
  
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-iAsWzG0R1n8/XxtabcoDIXI/AAAAAAABA9g/uTtF8CobHJsJIzD8rOie4H8ySKWXNB4QwCK4BGAYYCw/s400/afizzionados.png",Afizzionados
-http://tv-cool.com:25461/gabjha593/056b5314ff/30519
+http://odenfull.co:2086/NATALY4334/20TORRE50s/58029
  
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM", Ainy tv
 http://hd.istbolivia.com:1935/aynitv/aynitv/chunklist_w1526838493.m3u8
@@ -164,7 +164,7 @@ http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLM6oYazPN4uNutJxyjXXYyNjQU5BJciRXp
 http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLM1_LXU1d7fzCP5TMWxaJ8InJ0o8RwNr_mXWyKrD72Agb/ts
  
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/1/1b/Beinsports.png",Bein sport ñ
-http://xdgo.live:8080/play/http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLMyhxyuqG6Ln41c764Kx5LEh-IgO3vCP-dJMZZ9EZollf/ts
+http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLMyhxyuqG6Ln41c764Kx5LEh-IgO3vCP-dJMZZ9EZollf/ts
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtjFc4rSbl7AP5GTgNRgWdD_CiShyXqPxHQ&usqp=CAU", Bellabanquina tv
 https://v4.tustreaming.cl/bellatv/index.m3u8
@@ -182,7 +182,7 @@ https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.bitme.gg/wp-content/uploads/2019/07/66757049_2553659037979582_1623949962368778240_n.png?fit=820%2C360&ssl=1", Bitme
-http://tv-cool.com:25461/gabjha593/056b5314ff/59524
+http://goldenplay.best:25461/abc/abc/42095
  
 #EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/92/87/20593/c300.png", Blu
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
@@ -245,7 +245,7 @@ https://fullvideo.enlaweb.com.ar/video81/video81/playlist.m3u8
 http://tv-cool.com:25461/gabjha593/056b5314ff/35442
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png", Canal 6
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
+http://odenfull.co:2086/NATALY4334/20TORRE50s/1497
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpVlJWFjh_M2b6bNBdA6MontBTcJnV6yyswskt-RDjs-STdVOT-osUcf4faLxwne7Lrdo&usqp=CAU", Canal 6 bogota
 http://190.93.137.61:1935/live/canal6/playlist.m3u8
@@ -270,6 +270,9 @@ https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/KSTW_1974-KTVT_1980_logo.svg/revision/latest/scale-to-width-down/200?cb=20191227044013", Canal 11 
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",Canal 11 Guatemala 
+http://odenfull.co:2086/NATALY4334/20TORRE50s/1535
 
 #EXTINF:-1 tvg-logo="", Canal 11 Honduras
 http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLM8MLoaLIkY45PNArAcThmLYYxY0z6n0Lw-eRjLgBCfGR/ts
@@ -868,8 +871,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalnet.tv/_templates/globals/img/placeholder.png" ,Net tv
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png",NEXT 
-http://tv.fullytv.com:8080/favio123/123favio/5476
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV-Panam%C3%A1-en-vivo-Online.png",NEX
+http://odenfull.co:2086/NATALY4334/20TORRE50s/6598
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1437250999052242944/UQKTIoB__400x400.jpg", NEW K-ID
 https://2d2cb770b80a4e19bded6a526e1e9c9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewKID/6314a980-66c5-4ec6-a1aa-b965dc7e64e2/0.m3u8 
@@ -878,7 +881,7 @@ https://2d2cb770b80a4e19bded6a526e1e9c9f.mediatailor.us-east-1.amazonaws.com/v1/
 http://tv-cool.com:25461/gabjha593/056b5314ff/41287
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTG_wFVCGhfYUbqSfEFTe-Gzj-DKXaeoyr1Io5R=s900-c-k-c0x00ffffff-no-rj" ,Nick jr
-http://tv-cool.com:25461/gabjha593/056b5314ff/32743
+http://odenfull.co:2086/NATALY4334/20TORRE50s/206378
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6007db_8a558b04e3a94a9192e5bc6e5b311850~mv2.png/v1/fill/w_440,h_366,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%20NORTE%20VISION%20%20PNG_Mesa%20de%20trabajo%201.png", Norte vision
 https://eu1.servers10.com:8081/8092/playlist.m3u8
@@ -1082,7 +1085,7 @@ https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
-http://tv.fullytv.com:8080/zuli/1234/3069
+http://odenfull.co:2086/NATALY4334/20TORRE50s/109079
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/c/c2/Space_logo.jpg/revision/latest/scale-to-width-down/600?cb=20140810225155&path-prefix=es" ,Space
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/767
@@ -1122,10 +1125,10 @@ https://inliveserver.com:1936/11516/11516/chunklist_w1025692689.m3u8
 http://tv-cool.com:25461/gabjha593/056b5314ff/32925
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp", TC
-http://compitv.info:8080/ADELSO2/Adelso2/64431
+http://odenfull.co:2086/NATALY4334/20TORRE50s/91295
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" ,TCM
-http://compitv.info:8080/ADELSO2/Adelso2/47747
+http://odenfull.co:2086/NATALY4334/20TORRE50s/109428
  
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TCS_El_Salvador_2002.svg/1200px-TCS_El_Salvador_2002.svg.png",TCS
 https://secure-video.tcsgo.com/tcshd/index.m3u8
@@ -1207,7 +1210,10 @@ https://cdn4.hostlagarto.com:8081/static/teleradionortetv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLdcfWNi1KH4UlJBur4RoYa9YDWLRvUNMJ78KTe29z9K0YE0EzrIhcjE1aL0Ws6WD3t0&usqp=CAU", Teleritmo
 https://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Teletica 7
+http://odenfull.co:2086/NATALY4334/20TORRE50s/1495
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/TeleUno_1993.png/revision/latest?cb=20180622152054&path-prefix=es",Tele uno
 http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
  
@@ -1227,13 +1233,13 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 https://5eff35271151c.streamlock.net:1936/8038/8038/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1372582266568904709/0OvSVtae_400x400.jpg",TLC
-http://tv-cool.com:25461/gabjha593/056b5314ff/62749
+http://odenfull.co:2086/NATALY4334/20TORRE50s/31647
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_m.jpg" ,Tlnovelas
 http://globalentertainmentec.xyz:8000/Elias2022/Elias2022/8386
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/R6vuOBQDIsml2oNa21fvXUzOHZfCqfx00skuNQ2Wqm0UxZE_x4MGPVeKLMrZbm1noK8ZD1CBJw=s900-c-k-c0x00ffffff-no-rj", TLT
-http://compitv.info:8080/ADELSO2/Adelso2/118113
+http://odenfull.co:2086/NATALY4334/20TORRE50s/38209
  
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5St8n8SuLtkelCHsgNq2-vDwkpGEw1swX5oSVZ0rzkLktI-_9_EruCGLxM28jBg0YoI",Tocahits 24/7
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8
