@@ -668,7 +668,7 @@ http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLM9YKOUVNpfVN6jYHfjE_lRF2riJZgFW0t
 http://tv-cool.com:25461/gabjha593/056b5314ff/47469
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/dRSOhMNh7zh-DeS-u7PqMYxTT3gvuaB7_CU3uGxZ84bFt5QQUeTV0YrKqebIB67fYQf2pO7S=s900-c-k-c0x00ffffff-no-rj", HB ticavision
-http://goldenplay.best:25461/abc/abc/15228
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
  
 (#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUTeruxbFKLCRHgOVgCuvPf5rQp62yF4p_a26dhJjd7ZoytZLd6F2QOyaIDvHLGuj7A&usqp=CAU", Hechicera
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8
@@ -1060,7 +1060,7 @@ https://tiquiciatv.duckdns.org/hls/livestv.m3u8
 #EXTINF:-1, tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSDOZZfEW7b0e1_iUswY6zVWMYpcy2iSzq9ubEn=s900-c-k-c0x00ffffff-no-rj", Sazón tv
 http://177.53.152.186:8000/play/a014/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrNBihbQeArVy6H30rWZaAnBvznJEpsHJHCwveIIWDayqmLfU59Oe70DvTJeycS7Z6gq4&usqp=CAU" ,Señal Colombia 
+(#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrNBihbQeArVy6H30rWZaAnBvznJEpsHJHCwveIIWDayqmLfU59Oe70DvTJeycS7Z6gq4&usqp=CAU" ,Señal Colombia 
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8 
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j5yPLfz/SEO-KIDS-TV.jpg", Seo kids
