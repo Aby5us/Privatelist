@@ -182,7 +182,7 @@ https://tv.inka.net.pe/bestcable/bestcable/tracks-v1a1/mono.m3u8
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.bitme.gg/wp-content/uploads/2019/07/66757049_2553659037979582_1623949962368778240_n.png?fit=820%2C360&ssl=1", Bitme
-http://goldenplay.best:25461/abc/abc/42095
+http://tv-cool.com:25461/gabjha593/056b5314ff/59524
  
 #EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/92/87/20593/c300.png", Blu
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
@@ -216,15 +216,18 @@ https://unlimited1-us.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/1200px-Canal_2_logo.svg.png", Canal 2
 https://video13.virtualtronics.com/streamer/canal2.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Canal 2 El salvador 
+http://tvencasa.fun:2052/live/jhonny/jhonny/191309.ts
+
+#EXTINF:-1 tvg-logo="", Canal 2 Nicaragua 
+http://tvencasa.fun:2052/live/jhonny/jhonny/194781.ts
 #EXTINF:-1 tvg-logo="https://canal2sanagasta.com/wp-content/uploads/2017/07/2-1-300x263.png", Canal 2 Sanagasta
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", Canal 2 Tecnovision 
 https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 3 las heras
-https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSBKvIqeW4NuzoD6eZ3HS5Efp2mYOOYEYfDcuQC5A=s900-c-k-c0x00ffffff-no-rj", Canal 3 pinamar
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
@@ -270,7 +273,10 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/WZOcAVJa3DIlxlT1vEp7zbvsuIECXe5D_feSU888SVPZozkvdcCraEusgyBAtPiDZiPKxAF-gw=s900-c-k-c0x00ffffff-no-rj", Canal 10 Mar del plata
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo=", Canal 10 Nicaragua 
+http://tvencasa.fun:2052/live/jhonny/jhonny/176470.ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/KSTW_1974-KTVT_1980_logo.svg/revision/latest/scale-to-width-down/200?cb=20191227044013", Canal 11 
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
@@ -378,7 +384,7 @@ https://cloudvideo.servers10.com:8081/8168/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQw54uNyBVNiRhKZVfZWUWj4SBjnJLbHwzyzny2Ow=s900-c-k-c0x00ffffff-no-rj" ,Chile visión
 http://tv-cool.com:25461/gabjha593/056b5314ff/30520
  
-#EXTINF:-1 tvg-logo="https://dominicanchannels.net/wp-content/uploads/2019/07/chinolatv.jpg",Chinola tv
+(#EXTINF:-1 tvg-logo="https://dominicanchannels.net/wp-content/uploads/2019/07/chinolatv.jpg",Chinola tv
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478039362185142282/tgRBrFKK_400x400.jpg",CHTV
@@ -407,7 +413,10 @@ http://tv-cool.com:25461/gabjha593/056b5314ff/30234
  
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7ulD9Icp7Sc4paGNf4qiZUkvWeyhlPFH8KLge3vGQ2aYDPjvovMM88m-5VC6IdFrCg&usqp=CAU", Club tv
 https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Cocotv
+http://tvencasa.fun:2052/live/jhonny/jhonny/239017.ts
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7cdca9cb-756c-40c6-9faf-158694995663_m.jpg",Comedy central
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/56967
  
@@ -539,7 +548,7 @@ https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 http://tv-cool.com:25461/gabjha593/056b5314ff/29786
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png",ESPN 2
-http://tv-cool.com:25461/gabjha593/056b5314ff/30251
+http://tv-cool.com:25461/gabjha593/056b5314ff/61317
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5c990929-9b1a-4690-9292-f6378cade546_m.jpg",ESPN 3
 http://tv-cool.com:25461/gabjha593/056b5314ff/30252
@@ -596,7 +605,7 @@ http://tv-cool.com:25461/gabjha593/056b5314ff/29763
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg",Galavision
-http://tv-cool.com:25461/gabjha593/056b5314ff/35441
+http://tvencasa.fun:2052/live/jhonny/jhonny/132833.ts
  
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/05/gama-tv-en-vivo.jpg", GamaTV
 http://hispanotv.net:8080/Fabio123/Fabio123/151599
