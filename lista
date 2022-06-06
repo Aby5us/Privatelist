@@ -757,6 +757,9 @@ https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w75759857.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg/v1/fill/w_1000,h_593,al_c,q_90,usm_0.66_1.00_0.01/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg", Latino kids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="",La islilla tv
+http://190.108.83.142:8000/play/a00b/index.m3u8
+
 #EXTINF:-1 tvg-logo="", Lenca tv
 http://lencatelevision.com:8080/hls/ltv1.m3u8
 
@@ -1237,7 +1240,10 @@ http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Televisiete.png", Televisiete
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Televisión metropolis
+https://5b50404ec5e4c.streamlock.net/8060/8060/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" ,Televisión Puruwa
 https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
  
