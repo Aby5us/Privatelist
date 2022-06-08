@@ -1425,7 +1425,7 @@ http://tv-cool.com:25461/gabjha593/056b5314ff/30324
 http://ultra-premium-pro.xyz:8080/pato/pato/12356
  
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/ima98001053557.jpg", Uranio tv
-https://live.obslivestream.com/uraniomux/index.m3u8
+https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png", Urbano tv
 http://177.53.152.186:8000/play/a012/index.m3u8
