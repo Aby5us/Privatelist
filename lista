@@ -175,6 +175,9 @@ https://v4.tustreaming.cl/bellatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/logobella.jpg", Bella Asunción tv
 https://tvdatta.com:3602/stream/play.m3u8
  
+#EXTINF:-1 tvg-logo="",Bellavision
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dBut61JjURU/maxresdefault.jpg" ,Best cable musica
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/tracks-v1a1/mono.m3u8
  
@@ -447,7 +450,7 @@ https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Contivision-en-vivo-Online.png", Contivision
 https://unlimited6-cl.dps.live/contivision/contivision.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.control.vg/wp-content/uploads/2019/04/contorlvgtv.jpg", Control vg
+(#EXTINF:-1 tvg-logo="https://www.control.vg/wp-content/uploads/2019/04/contorlvgtv.jpg", Control vg
 https://tls-cl.cdnz.cl/onradio-5/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjVFc8LdEXTOKFguwxeB6uzyasyZJCR4A-MNR7J095WCCsY03wESxyTK-BRRsKM-ClJA&usqp=CAU", Controversia tv
@@ -671,7 +674,7 @@ http://tvencasa.fun:2052/live/jhonny/jhonny/246192.ts
 http://tv-cool.com:25461/gabjha593/056b5314ff/29971
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu3CJPm2hjzTtPs2vscbWgMhMrkbi0Ep0E-HywRrR7r7n937H13oK56bEp0ZAOZVdvL7s&usqp=CAU", Guacara tv
-https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8
+https://cloudflare.streamgato.us:3180/live/guacaratvlive.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/cropped-gtvicon-1.png?quality=82", Guatevision
 http://go.iptvhn.net:25461/Smart/Smart123/6567
