@@ -1091,7 +1091,7 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
  
 #EXTINF:-1 tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png",RTU
-http://tv-cool.com:25461/gabjha593/056b5314ff/38033
+https://streamingwowza.com:19360/rtutv/rtutv.m3u8
 
 #EXTINF:-1 tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1.png",San Isidro tv 
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8 
