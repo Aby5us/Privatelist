@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="", 5Tv aire
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/56hrgvrbtrjhtrgfwref.jpg", 5Tv aire
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLROst7U7YxIjdd0BBksAPTSH4hpMiTL8LY5P1Gt=s900-c-k-c0x00ffffff-no-rj", 7 Norte tv
@@ -57,7 +57,7 @@ https://cdn2.streamgato.us/alegrandotv/alegrandotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9ae80e_5c0aadb4185d40cbbf74429d9b0abdd9~mv2.png/v1/fill/w_2500,h_2172,al_c/9ae80e_5c0aadb4185d40cbbf74429d9b0abdd9~mv2.png" ,Alegría tv
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Albardon tv
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/6vt8JAXtQs3RxTcSBs2oSDQV1STdC9cO7Q_36OXRoajKbIaCJn0kwbEIItqs45937SCj0Gca=s900-c-k-c0x00ffffff-no-rj", Albardon tv
 https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjpHFjukybCrDHzKd3uIuWpH5a5A7_AO756YGp-_qsV9SKeIYKuWgOgxVgJCZ6xBvEY0&usqp=CAU", Alternativa tv
@@ -133,7 +133,7 @@ http://odenfull.co:2086/NATALY4334/20TORRE50s/110377
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/5/50545.v24.png", Atv colombia
 https://movil.ejeserver.com/live/verteve.m3u8
 
-#EXTINF:-1 tvg-logo="", Atv honduras
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image42778820638.jpg", Atv honduras
 https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://pirikarakochan.com/wp-content/uploads/2019/06/AT-X_logo.svg_.png" ,ATX
@@ -175,7 +175,7 @@ https://v4.tustreaming.cl/bellatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/logobella.jpg", Bella Asunción tv
 https://tvdatta.com:3602/stream/play.m3u8
  
-#EXTINF:-1 tvg-logo="",Bellavision
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4goxewWGi3oUNNe7v1cZsXfxnpS-So1ZyQ6-AeFM1Ipy6Sxzp-gGWLHI8t3Xp4cHSqg&usqp=CAU",Bellavision
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/dBut61JjURU/maxresdefault.jpg" ,Best cable musica
@@ -217,21 +217,21 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal 1 Colombia
 http://hdhd.tk:80/@mrchrisjaeger/4444/5939
  
-#EXTINF:-1 tvg-logo="https://tv.wurtlitzer.info/imagenes/canales/nacional/canal2quellon.png" , Canal 2 Quellon
-https://unlimited1-us.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/1200px-Canal_2_logo.svg.png", Canal 2
 https://video13.virtualtronics.com/streamer/canal2.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 2 El salvador 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/TCS_2_2016.png", Canal 2 El salvador 
 http://odenfull.co:2086/NATALY4334/20TORRE50s/769
 
-#EXTINF:-1 tvg-logo="", Canal 2 Nicaragua 
+#EXTINF:-1 tvg-logo="https://tv.wurtlitzer.info/imagenes/canales/nacional/canal2quellon.png" , Canal 2 Quellon
+https://unlimited1-us.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEmutl3eJErlW51VJhQVgl3MYJ_WRbi0x27m3jtlfleDtZw5qIuf4-9gUq5ppTlzs2Yog&usqp=CAU", Canal 2 Nicaragua 
 http://tvencasa.fun:2052/live/jhonny/jhonny/194781.ts
 #EXTINF:-1 tvg-logo="https://canal2sanagasta.com/wp-content/uploads/2017/07/2-1-300x263.png", Canal 2 Sanagasta
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 2 Tecnovision 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS1by9aHp-0-xuAiE41ZshO4Fb4Nyb-yIYJkKv9=s900-c-k-c0x00ffffff-no-rj", Canal 2 Tecnovision 
 https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
 
 
@@ -241,31 +241,31 @@ http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Canal-3-Guatemala-en-vivo-Online.png", Canal 3 supercanal
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",Canal 4
-http://nicatv.rylco.com:8075/channel4/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3u8
- 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png", Canal 4 El salvador
+http://odenfull.co:2086/NATALY4334/20TORRE50s/773
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRyXxZhJ5GXUQuuBR12vWuZ47tRfZWbVILidiflyw=s900-c-k-c0x00ffffff-no-rj", Canal 4 jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 4 El salvador
-http://odenfull.co:2086/NATALY4334/20TORRE50s/773
+#EXTINF:-1 tvg-logo="https://nicasnews.com/wp-content/uploads/2016/04/canal04.jpg",Canal 4 Nicatv
+http://nicatv.rylco.com:8075/channel4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1200px-Repretel_4_logo.png",Canal 4 Repretel
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal4/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1333859673888464901/_0-cae_U_400x400.jpg" ,Canal 5 México
 http://el-monkey.com:25461/joseluis/joseluis/32
 
-#EXTINF:-1 tvg-logo="", Canal 5 Pico
+#EXTINF:-1 tvg-logo="http://www.canal5picotruncado.com/wp-content/uploads/2018/03/logocanal5pc-x1.png", Canal 5 Pico
 http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png", Canal 6
-http://odenfull.co:2086/NATALY4334/20TORRE50s/1497
- 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpVlJWFjh_M2b6bNBdA6MontBTcJnV6yyswskt-RDjs-STdVOT-osUcf4faLxwne7Lrdo&usqp=CAU", Canal 6 bogota
 http://190.93.137.61:1935/live/canal6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 6 El Salvador 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png", Canal 6 Costa rica
+http://odenfull.co:2086/NATALY4334/20TORRE50s/1497
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912721115696500737/wVEWYAU6_400x400.jpg", Canal 6 El Salvador 
 http://tvbross.com:8090/Sebastian11/Sebastian11/57
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRHbMf6g9h72T7Of6yPll1SO6oRxKEGe4xKmdhWrw=s900-c-k-c0x00ffffff-no-rj", Canal 7 jujuy
@@ -277,10 +277,10 @@ https://mvtvstream.com:444/live/603d046595b62/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image87580671255.jpg", Canal 8 catacaos
 https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 
-#EXTINF:-1 tvg-logo="",Canal 8 Valle
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkEDBWrLjVUroylcRq2sRyGqsM9ievK1EIKWS_JEfD8eipHowehak0pmQ8el-M6r0x58&usqp=CAU",Canal 8 Valle
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 9 Norte
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FhPFbXhwWC0WexFmVyQEjl8Wt6w2oe6i5oWU_yPLVUHSxKKgfEi7G79T6EHSlSS9S5Yu=s200", Canal 9 Norte
 https://panel.dattalive.com/8076/8076/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ7GDETlXKG45405irLbpnbJXLQJEyn0O3h5exN6AI=s900-c-k-c0x00ffffff-no-rj", Canal 9 televida
@@ -289,16 +289,16 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/WZOcAVJa3DIlxlT1vEp7zbvsuIECXe5D_feSU888SVPZozkvdcCraEusgyBAtPiDZiPKxAF-gw=s900-c-k-c0x00ffffff-no-rj", Canal 10 Mar del plata
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=", Canal 10 Nicaragua 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png", Canal 10 Nicaragua 
 http://tvencasa.fun:2052/live/jhonny/jhonny/176470.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/KSTW_1974-KTVT_1980_logo.svg/revision/latest/scale-to-width-down/200?cb=20191227044013", Canal 11 
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",Canal 11 Guatemala 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png",Canal 11 Guatemala 
 http://odenfull.co:2086/NATALY4334/20TORRE50s/1535
 
-#EXTINF:-1 tvg-logo="", Canal 11 Honduras
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/800px-Canal_11_HN_logo_2010.png", Canal 11 Honduras
 http://pelicanhosting.xyz:80/944487999/9930504545/94552
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/TU-TV-El-Salvador-Canal-11-en-vivo-Online.png", Canal 11 tutv
@@ -310,16 +310,16 @@ https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTec8QQsc9awqRzn3UxcJgYfkiRSdBXnIxN_Xwfbw7Z3Huw-AHDTx6_kcCpcNYwdPudI&usqp=CAU", Canal 12 metro tv
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null 
 
-#EXTINF:-1 tvg-logo="",Canal 12 misiones
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/IxHOAM-fDrEzG6Xoxv0t2jZm351GgCsZgu6fbLDeZPCvfO_Jybh6vfd_SpI4W_aBp9UnBcqk2g=s900-c-k-c0x00ffffff-no-rj",Canal 12 misiones
 https://g5.mc-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 12 Nicavisión 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTF9D8PqLw11sat1yywFjxxbhGCIaV2FJmnkhLidA=s900-c-k-c0x00ffffff-no-rj", Canal 12 Nicavisión 
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t0st_Nh1mao/maxresdefault.jpg", Canal 12 RTV
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 13 Sanluis
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTGikaxemWZXyTef1vOXUJEGKvUEGda1NNxSfNlAQ=s900-c-k-c0x00ffffff-no-rj", Canal 13 Sanluis
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTBJ6F5CXllGcHeJ6CNuBLCyCgdq5lluFCJIUPz1Q=s900-c-k-c0x00ffffff-no-rj",Canal 13
@@ -337,7 +337,7 @@ https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU9kwd9pPZs2dphTcYwn6Q8P0TG68Pjd-lZw&usqp=CAU", Canal 21 tv 
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 21 el salvador 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal-21.png/800px-Canal-21.png", Canal 21 el salvador 
 http://odenfull.co:2086/NATALY4334/20TORRE50s/771
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M-P3BOfz1-b-hZ4UOgPGqBKuBrEzWHNXfeMxKNBBt6IUz6GsWWXVPo0AS91b2MN-TVY&usqp=CAU", Canal 34 
@@ -408,10 +408,7 @@ https://cloudvideo.servers10.com:8081/8168/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQw54uNyBVNiRhKZVfZWUWj4SBjnJLbHwzyzny2Ow=s900-c-k-c0x00ffffff-no-rj" ,Chile visión
 http://streamgo.vip:8008/rodrigo12/rodrigo12/28233
- 
-(#EXTINF:-1 tvg-logo="https://dominicanchannels.net/wp-content/uploads/2019/07/chinolatv.jpg",Chinola tv
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478039362185142282/tgRBrFKK_400x400.jpg",CHTV
 https://media.streambrothers.com:1936/8054/8054/playlist.m3u8
  
@@ -439,7 +436,7 @@ http://azplay.ddns.me:33200/tracy01/tracy01/39994
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7ulD9Icp7Sc4paGNf4qiZUkvWeyhlPFH8KLge3vGQ2aYDPjvovMM88m-5VC6IdFrCg&usqp=CAU", Club tv
 https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Cocotv
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0260/0917/4088/files/logo_coco.png?height=628&pad_color=fff&v=1569806261&width=1200", Cocotv
 http://tvencasa.fun:2052/live/jhonny/jhonny/239017.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/7cdca9cb-756c-40c6-9faf-158694995663_m.jpg",Comedy central
@@ -487,7 +484,7 @@ http://190.108.83.142:8000/play/a007/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dnk9XbJ8XEJYkLX_vaEqcVJuXMJZ8pp2sI28RV_uG96YXeFmbxBfMdN8hGeiqhY7s9gD" ,CTV
 https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 
-#EXTINF:-1 tvg-logo="", CTV capricho
+#EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg",Dantv
@@ -625,7 +622,7 @@ http://tv-cool.com:25461/gabjha593/056b5314ff/30262
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLYWe3sUQbJrZaP5n3p04OlPNMz4TpubY3Rg&usqp=CAU", Fuego tv
 http://190.108.83.142:8000/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Frata tv
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/frata-tv.jpg", Frata tv
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" ,Fx
@@ -637,7 +634,7 @@ https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg",Galavision
 http://pelicanhosting.xyz:80/944487999/9930504545/342801
 
-#EXTINF:-1 tvg-logo="",Galaxia tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiy8b5rCeHkk5Wt1ENOGrmeYfIyCrKIValF-o9l98WutPIjEJPKGFf-Yl2HZtlTis3PU8&usqp=CAU",Galaxia tv
 http://amixtv.com:8080/galaxiatv/video.m3u8
  
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/05/gama-tv-en-vivo.jpg", GamaTV
@@ -649,7 +646,7 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UscOGMJ_SzfjKpsGz-rBT02q0AmDGY7NgDk3RPSvxxnfRC6LfX1JTPGgGLaL6GCtHqY", GEN tv
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1 tvg-logo="", Girovisual
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1222959189766627328/SYfmOK59_400x400.jpg", Girovisual
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png", Glitz
