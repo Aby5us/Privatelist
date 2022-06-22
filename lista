@@ -1033,7 +1033,10 @@ https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9sr9dttWK_lLIJvmTufooeHtcT52xK3TAzaaIuu7NzzKgZvYKqxzI09WXktqpYYmA7pY&usqp=CAU", Películas smart
 http://190.108.83.142:8000/play/a009/index.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Perú chanel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEDfq14-IL-mlYONZHVsOsWAbf_xML3A9UZw&usqp=CAU", Planea TV
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
  
@@ -1423,7 +1426,10 @@ http://el-monkey.com:25461/joseluis/joseluis/32737
  
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uAHYQ52FlHo/XM-wmAl7DuI/AAAAAAAANf8/1K63fvizDpc-aLzsjCjJq-Ijxq4q01uBwCLcBGAs/s1600/turbomix.jpg", Turbo mix tv
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Tv+
+https://streamcasthd.com:19360/tvmas/tvmas.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pidamazonia.com/sites/default/files/canal-tv5.png" , Tv5
 https://live.obslivestream.com/tv5/index.m3u8
  
@@ -1558,7 +1564,10 @@ https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/4cc8abe7402fed46c7ea31ea57e78bb76c5d3d8ebe5ab92d3b2e749a4b0803c6.png", Urbano tv
 http://177.53.152.186:8000/play/a012/index.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", V3000
+https://ss3.domint.net:3102/v3_str/v3000/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IBcNGeLfkQs/maxresdefault.jpg", Vallevision
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
  
@@ -1573,7 +1582,10 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-01-at-8.35.28-AM.jpeg", Villa Alta gracia
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Visión NDV
+https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w" ,VIWIX Tv
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 
