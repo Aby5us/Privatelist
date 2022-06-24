@@ -57,7 +57,7 @@ https://cdn2.streamgato.us/alegrandotv/alegrandotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9ae80e_5c0aadb4185d40cbbf74429d9b0abdd9~mv2.png/v1/fill/w_2500,h_2172,al_c/9ae80e_5c0aadb4185d40cbbf74429d9b0abdd9~mv2.png" ,Alegría tv
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Alfa tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/Alfatv.png", Alfa tv
 https://byecableiptv.com:443/alfatv/alfatv.stream/paylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/6vt8JAXtQs3RxTcSBs2oSDQV1STdC9cO7Q_36OXRoajKbIaCJn0kwbEIItqs45937SCj0Gca=s900-c-k-c0x00ffffff-no-rj", Albardon tv
@@ -148,7 +148,7 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://autonomatv.cl/wp-content/uploads/2021/07/AUTONOMA-tv-1-ok-chico-2-272x147.png",Autónoma tv
 https://5eff35271151c.streamlock.net:1936/8144/8144/playlist.m3u8 
  
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_axn_m.png",AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",AXN
 http://go.iptvhn.net:25461/Smart/Smart123/6481
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" ,Azteca 7
@@ -205,7 +205,7 @@ http://hdhd.tk:80/@mrchrisjaeger/4444/22493
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREptCoaxM_qODKeIfZ6DIzz1ememvJX6hinSzQ_TnXRSiEsKFSltoaoCusgCWjvzbGUE&usqp=CAU",Bolivia tv
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Buena tv
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YnVlbmEudHZfc2NyZWVuXzBfMTU1NTAwOTI2NV8wNDk/screen-0.jpg?fakeurl=1&type=.jpg", Buena tv
 https://cdn4.hostlagarto.com:8081/static/buenatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51SN4YBCY6L._SL500_.png", Butacatv
@@ -220,7 +220,7 @@ https://tv.inka.net.pe/cajamarcatv/cajamarcatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483835618878701576/2ldagxin_400x400.jpg", Cali tv
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Cana tv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1234868471697154053/0BCyTzb3_400x400.jpg", Cana tv
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal 1 Colombia
@@ -452,7 +452,7 @@ http://fullvideo.enlaweb.com.ar:8081/video63/video63/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg",Claro sport
 http://azplay.ddns.me:33200/tracy01/tracy01/39994
 
-#EXTINF:-1 tvg-logo="", Claro vision RD
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/Claro-Vision-Dominicana.jpeg", Claro vision RD
 https://cdn2.streamgato.us/%20ctvd/%20ctvd/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7ulD9Icp7Sc4paGNf4qiZUkvWeyhlPFH8KLge3vGQ2aYDPjvovMM88m-5VC6IdFrCg&usqp=CAU", Club tv
@@ -509,7 +509,7 @@ https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 #EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Daja tv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_N9oMWZ_H0A/maxresdefault.jpg", Daja tv
 https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg",Dantv
@@ -521,7 +521,7 @@ https://dmtv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://delsur.tv/images/logodelsurtv.png?crc=4184028462", Del sur tv
 http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Delta tv
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/09/deltatv.jpg", Delta tv
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" ,D Película
@@ -587,7 +587,7 @@ http://etvhome.com:25461/dgonzalez/dgonzalez/76137
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-zOoSVkZPZF8/VMleHz3zfCI/AAAAAAAAAGc/Wio8fAUu1zY/s1600/E!%2BEntertainment.jpg",E Entertainment
 http://azplay.ddns.me:33200/tracy01/tracy01/2700
  
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1300490998494253062/1lW1Zvuv_400x400.jpg", El sol 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4UO6gtj8ezFTYYdYWeixOMTSC81p6NTBYw&usqp=CAU", El sol 
 http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G-Yqp4Yvn8E/hqdefault.jpg", Energeek
@@ -800,10 +800,10 @@ http://177.53.152.186:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/74/d9/4221/4/c300.png", Kronehit
 https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
 
-#EXTINF:-1 tvg-logo="", La caleta tv
+#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png", La caleta tv
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", La hora tv
+#EXTINF:-1 tvg-logo="https://lahoratv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.12-AM-300x140.jpeg", La hora tv
  https://ss5.domint.net:3056/lhtv_str/lahoratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTrUY5_qXeGHCoycebvE2x-FbOBkTQ9_LgTg&usqp=CAU",La Red
@@ -863,7 +863,7 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png", Megatv
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Megatv py
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jTF17ByU3z8/maxresdefault.jpg", Megatv py
 http://edge-live13-sl.cvattv.com.ar/live/c7eds/Mega_TV/SA_SAGEMCOM/Mega_TV.m3u8
 
 #EXTINF:-1 tvg-logo="", Megatv
