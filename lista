@@ -496,7 +496,10 @@ https://live.obslivestream.com/crtvmux/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpypn604VRfVSj37amOKfQUjv9l9jfEEGI6g&usqp=CAU",Creotv
 https://srv1.mediastreamperu.com/creotv/creotv/chunks.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Crom 
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/219_Crossing_TV.png", Crossing
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
  
@@ -804,7 +807,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/.m3u8
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lahoratv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.12-AM-300x140.jpeg", La hora tv
- https://ss5.domint.net:3056/lhtv_str/lahoratv/playlist.m3u8
+https://ss5.domint.net:3056/lhtv_str/lahoratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTrUY5_qXeGHCoycebvE2x-FbOBkTQ9_LgTg&usqp=CAU",La Red
 http://el-monkey.com:25461/joseluis/joseluis/231
@@ -903,10 +906,10 @@ http://tvbross.com:8090/Sebastian11/Sebastian11/112
 http://azplay.ddns.me:33200/tracy01/tracy01/30451
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg",MTVHITS
-http://tvbross.com:8090/Sebastian11/Sebastian11/2235
+http://odenfull.co:2086/NATALY4334/20TORRE50s/135337
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png",MTV live
-http://odenfull.co:2086/NATALY4334/20TORRE50s/207898
+http://el-monkey.com:25461/joseluis/joseluis/675
  
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/0336443cf45042a14d4c6afd062059843ab7d9deb7c3c0c93f88ceba0e3e33eb.png", Multicanal 
 https://multicanal.streamseguro.com/hls/streaming.m3u8
@@ -1002,7 +1005,7 @@ https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1733134180.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png",Oromar tv
-http://pelicanhosting.xyz:80/944487999/9930504545/401536
+https://flextv.io:443/chief/1234/738538.ts
  
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/17cd416cd79c36ae1fafeacffa785512.webp", Oxigeno
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
@@ -1101,10 +1104,10 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 https://inliveserver.com:1936/8158/8158/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN
-http://tv.fullytv.com:8080/zuli/1234/3415
+https://flextv.io:443/chief/1234/739032.ts
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ynIFcVdAGtc/maxresdefault.jpg",RCN Novelas
-http://tv.fullytv.com:8080/zuli/1234/2125
+https://flextv.io:443/chief/1234/452841.ts
  
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8opA7PbnILtW23QyDSFA9gDKDwanGSpNMc1p1V5umYXX4becUOAyyfR2CtWBdfCgla4X", Rec online
 https://master.tucableip.com/reconline/live/video.m3u8
