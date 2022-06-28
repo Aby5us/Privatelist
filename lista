@@ -96,7 +96,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc87
 #EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/19170821/PlutoTV_Logo_Hero_RGB_Color.jpg", Anime heroes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF=-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/15c25b0702160d6139a1aa50b442ab2a.webp", Anime zone tv
+#EXTINF=-1 tvg-logo="https://azxtv.com/aztv.png", Anime zone tv
 http://azxtv.com/hls/stream.m3u8
  
 #EXTINF=-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555", Aniplus lat
@@ -129,7 +129,7 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/ATBBo2020Logo.png", ATB
 http://compitv.info:8080/ADELSO2/Adelso2/340159
  
-#EXTINF:-1 tvg-logo="https://secureservercdn.net/198.71.233.110/j6z.120.myftpupload.com/wp-content/uploads/2021/09/Nuevo-Logo-ATM-3-HD-150x150.png", ATM
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/605/477/png-transparent-thermcraft-inc-drug-rehabilitation-world-atm-congress-2018-dallas-dual-diagnosis-atm-text-trademark-logo-thumbnail.png", ATM
 https://v4.tustreaming.cl/atmtv/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png", ATV
@@ -139,10 +139,11 @@ http://odenfull.co:2086/NATALY4334/20TORRE50s/110377
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/5/50545.v24.png", Atv colombia
 https://movil.ejeserver.com/live/verteve.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image42778820638.jpg", Atv honduras
 https://video.misistemareseller.com/atvhonduras/atvhonduras/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://pirikarakochan.com/wp-content/uploads/2019/06/AT-X_logo.svg_.png" ,ATX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/245px-AT-X_logo.svg.png" ,ATX
 https://sub2.neetball.net/live/neet.m3u8
  
 #EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png", Auntentica tv
@@ -223,7 +224,7 @@ https://tv.inka.net.pe/cajamarcatv/cajamarcatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483835618878701576/2ldagxin_400x400.jpg", Cali tv
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1234868471697154053/0BCyTzb3_400x400.jpg", Cana tv
+#EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/vrtherhreshreh.png"group-title=", Cana tv
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal 1 Colombia
