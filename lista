@@ -1,4 +1,4 @@
-1#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/56hrgvrbtrjhtrgfwref.jpg", 5Tv aire
 https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8
@@ -598,7 +598,7 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cnt-media.boxqos.com/consumer/canals/canal-del-futbol/logo/canal-del-futbol-logo.png",ECDF
-http://etvhome.com:25461/dgonzalez/dgonzalez/84543
+http://compitv.info:8080/ADELSO2/Adelso2/340177
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", Ecuador TV
 http://p1w2.info:4456/lucas/lucas/107734
