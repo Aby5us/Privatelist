@@ -801,7 +801,7 @@ http://el-monkey.com:25461/joseluis/joseluis/94
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/p7wSwsG6395ETKdZXiBbJaHO90gptPyFUpVfJJbFCo1EWS8somTwzMDP8Ujv7FVgFlA=s180-rw", Imagen Universal
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="", Innova
+#EXTINF:-1 tvg-logo="https://www.innovafm.com/wp-content/uploads/2021/04/tv-innova-fm.png", Innova
 https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pLU1cexjKbNLw9Scpp6N4IerkDIO50V7Lg&usqp=CAU", Intercable
@@ -840,10 +840,10 @@ https://ss5.domint.net:3056/lhtv_str/lahoratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTrUY5_qXeGHCoycebvE2x-FbOBkTQ9_LgTg&usqp=CAU",La Red
 http://el-monkey.com:25461/joseluis/joseluis/231
 
-#EXTINF:-1 tvg-logo="", La red Uruguay
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/LogoLaRedHD2018.png/150px-LogoLaRedHD2018.png", La red Uruguay
 https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 
-#EXTINF:-1 tvg-logo="",La Reina tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-AHR4Knrd0xu2ANWSuc9oiNgGKpStrvoILarH2gjDdlUTQqcSJ9hykJ36_7bBXuKunos&usqp=CAU",La Reina tv
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" ,Las estrellas 
@@ -858,10 +858,10 @@ https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w75759857.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg/v1/fill/w_1000,h_593,al_c,q_90,usm_0.66_1.00_0.01/b22f37_1e61cb9eac724a5ea5595b0de0baf911~mv2.jpg", Latino kids
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",La islilla tv
+#EXTINF:-1 tvg-logo="https://www.deperu.com/centros-poblados/imagenes/la-islilla-93448.jpg",La islilla tv
 http://190.108.83.142:8000/play/a00b/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Lenca tv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Pj0cw_MtiXOVbmPnOYWuxjRg_RdJIDU682YhYxqwUeFtVYX7QSn-lQgxDKBuJYQ9ajm7", Lenca tv
 http://lencatelevision.com:8080/hls/ltv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOdiPxsZgANL7vXmAtUzjGAJ-T2Bf1Vl3utw_bK=w1080-h608-p-no-v0", Lima live
