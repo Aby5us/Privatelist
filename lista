@@ -769,7 +769,10 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2azXNm3bd8v3OhfMN_9dpViM87qWu74A5tjt0FK6gvRAMWhkElYiwsqWrMpBrb5RkF8s&usqp=CAU", Global music
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="",Global tv RD
+https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/245px-Canal_Golden_logo.svg.png" ,Golden
 http://hdhd.tk:80/@mrchrisjaeger/4444/24392
  
@@ -1094,6 +1097,9 @@ http://168.232.168.242:8089/play/a04p/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTG_wFVCGhfYUbqSfEFTe-Gzj-DKXaeoyr1Io5R=s900-c-k-c0x00ffffff-no-rj" ,Nick jr
 http://odenfull.co:2086/NATALY4334/20TORRE50s/206378
+
+#EXTINF:-1 tvg-logo="",Nicoya tv
+https://59ef525c24caa.streamlock.net:443/nicoyatv/nicoyatv/chunklist_w368794946.m3u8
 
 #EXTINF:-1 tvg-logo="",Nim tv 
 http://iptv.streamhispanatv.net:25461/playgt/123456/36
