@@ -25,7 +25,7 @@ http://globalentertainmentec.xyz:8000/Elias2022/Elias2022/48342
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQifxebAegVPiVWtqsGvVhSGLEihFst9hlm3Q&usqp=CAU", A3s
-http://streamgo.vip:8008/rodrigo12/rodrigo12/130696
+http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/51366
  
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/gfYq6X.png" , A estrenar
 http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/36596
@@ -76,7 +76,7 @@ https://emisoras.hn:8081/atv/index.m3u8
 https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png",AMC 
-http://tv-cool.com:25461/st200/a2139ad15a/41007
+http://legendtvs.com:80/test2/12345/364632
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBEm57eM_uGTOgGqotvWXATIcgqsl4IcztVJUMciMBc2t-jOkOGBQn6p-eTlLdsr28hMQ&usqp=CAU", América Perú
 http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/119680
@@ -575,6 +575,9 @@ https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 #EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Ctv digital
+https://stmv.panel.grupolimalive.com/digitaltv12/digitaltv12/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_N9oMWZ_H0A/maxresdefault.jpg", Daja tv
 https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
 
@@ -727,7 +730,10 @@ http://168.232.168.242:8089/play/a061/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg",Fox Sports 3
 http://tv-cool.com:25461/st200/a2139ad15a/30262
- 
+
+#EXTINF:-1 tvg-logo="", Fox sports premium
+http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/51510
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLYWe3sUQbJrZaP5n3p04OlPNMz4TpubY3Rg&usqp=CAU", Fuego tv
 http://190.108.83.142:8000/play/a003/index.m3u8
 
@@ -1009,7 +1015,7 @@ http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 http://168.232.168.242:8089/play/a0i8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cCXg0GeyNoqg7C7TN0bkBXZUgWWPzu5DVxrhyNZ04pesN42WexpB8lRHktSPrPn47yM=w600-h300-pc0xffffff-pd", Millenium Arg
-https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
+https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
  
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vvk5rabwtqxk.jpg", Millenium
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
@@ -1160,6 +1166,9 @@ http://el-monkey.com:25461/joseluis/joseluis/251
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png",Pasiones 
 http://el-monkey.com:25461/joseluis/joseluis/108
+
+#EXTINF:-1 tvg-logo="",Pat
+https://master.tucableip.com/pat/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image18703388748.jpg", Pauta tv
 https://unlimited1-cl-isp.dps.live/pautatv/pautatv.smil/playlist.m3u8
@@ -1369,7 +1378,7 @@ https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8
 http://azplay.ddns.me:33200/tracy01/tracy01/2671
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" ,Studio Universal
-http://azplay.ddns.me:33200/tracy01/tracy01/30627
+http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/24121
  
 #EXTINF:-1, tvg-logo="https://www.supercanal.com.pe/wp-content/uploads/2020/10/cropped-cropped-favicon-super-cnaal-1-300x182.png",Super Canal
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
@@ -1420,7 +1429,7 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/120
 https://servilive.com:3126/live/tele2000live.m3u8
  
 #EXTINF:-1 tvg-logo="https://havanatimesenespanol.org/wp-content/uploads/2020/06/teleamazonas-1280x720.png", Teleamazonas
-http://p1w2.info:4456/lucas/lucas/107740
+http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/362
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Teledoce_%283%29.png/revision/latest?cb=20210401230644&path-prefix=es", Tele canal 12
 http://tvbross.com:8090/Sebastian11/Sebastian11/2345
@@ -1453,7 +1462,7 @@ https://videohd.live:19360/8020/8020.m3u8
 https://videohd.live:19360/8014/8014.m3u8
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409724438493401089/-x-2Fhk6.jpg" ,Telefe
-http://edge-live14-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8 
+http://legendtvs.com:80/test2/12345/295765 
  
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Telefuturo-en-vivo-Online.png", Telefuturo
 http://azplay.ddns.me:33200/tracy01/tracy01/2396
@@ -1615,7 +1624,7 @@ https://live.obslivestream.com/tv5/index.m3u8
 http://iptv.streamhispanatv.net:25461/playgt/123456/68
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/986970273609109504/WGiYE_i2.jpg",TVC
-http://streamgo.vip:8008/cris123/cris123/146619
+http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/24647
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canela-tv.jpg", Tv Canela
 https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
@@ -1726,7 +1735,7 @@ https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/85623
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTjIyPYi9waLUSCbuRygKkdmYeBDYP0ODjRfiJh-A=s900-c-k-c0x00ffffff-no-rj",Universal
-http://p1w2.info:4456/lucas/lucas/107874
+http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/1812
  
 #EXTINF:-1 tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png", Universal cinema
 http://azplay.ddns.me:33200/tracy01/tracy01/50467
@@ -1798,10 +1807,10 @@ https://live.obslivestream.com/vztv/index.m3u8
 http://globalentertainmentec.xyz:8000/Elias2022/Elias2022/3360
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner
-http://globalentertainmentec.xyz:8000/Elias2022/Elias2022/48370
+http://legendtvs.com:80/test2/12345/364363
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Willax_Televisi%C3%B3n_2020.png",Willax
-http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/101830
+http://legendtvs.com:80/test2/12345/364765
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png",Win sports
 http://el-monkey.com:25461/joseluis/joseluis/349
