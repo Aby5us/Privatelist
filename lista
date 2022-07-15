@@ -39,9 +39,6 @@ https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/activatvhonduras.png", Activatv
 https://streamtv.mediasector.es/hls/activatv/.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.dosdossolodos.com/wp-content/uploads/2021/08/0e693ada-aew-called-out-for-following-adult-video-website-on-social-media.png" ,AEW
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
- 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-iAsWzG0R1n8/XxtabcoDIXI/AAAAAAABA9g/uTtF8CobHJsJIzD8rOie4H8ySKWXNB4QwCK4BGAYYCw/s400/afizzionados.png",Afizzionados
 http://odenfull.co:2086/NATALY4334/20TORRE50s/58029
 
@@ -260,7 +257,7 @@ https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS1by9aHp-0-xuAiE41ZshO4Fb4Nyb-yIYJkKv9=s900-c-k-c0x00ffffff-no-rj", Canal 2 Tecnovision 
 https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Canal 3 multivision
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0JvLOq30a916dNJJHwNMcXF6F7CZLAHDc_JHsd6j-AtXwICNfQMO9IFjf6g8Tvl2DzDi", Canal 3 multivision
 http://iptv.streamhispanatv.net:25461/playgt/123456/130
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSBKvIqeW4NuzoD6eZ3HS5Efp2mYOOYEYfDcuQC5A=s900-c-k-c0x00ffffff-no-rj", Canal 3 pinamar
@@ -462,7 +459,7 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvdatta.com/uploads/directorylists/cartagomedios.png", Cartago tv
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/109044
+https://tvdatta.com:3384/live/cartagomedioslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.paho.org/sites/default/files/styles/max_650x650/public/2020-09/cartoon-network-1500-2_0_0.jpg?itok=Tci6lftu",Cartoon Network
 http://el-monkey.com:25461/joseluis/joseluis/35
@@ -575,7 +572,7 @@ https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 #EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Ctv digital
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/56/27/8d/56278d78-4c1b-8186-8c6d-6520a608e4ab/source/512x512bb.jpg", Ctv digital
 https://stmv.panel.grupolimalive.com/digitaltv12/digitaltv12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_N9oMWZ_H0A/maxresdefault.jpg", Daja tv
@@ -731,7 +728,7 @@ http://168.232.168.242:8089/play/a061/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg",Fox Sports 3
 http://tv-cool.com:25461/st200/a2139ad15a/30262
 
-#EXTINF:-1 tvg-logo="", Fox sports premium
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_03/large.FOXSportsPremiumMX.png.3b3492c3f104278281bd7e9cff39c07d.png", Fox sports premium
 http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/51510
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLYWe3sUQbJrZaP5n3p04OlPNMz4TpubY3Rg&usqp=CAU", Fuego tv
