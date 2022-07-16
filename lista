@@ -45,9 +45,6 @@ http://odenfull.co:2086/NATALY4334/20TORRE50s/58029
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRxRpUE3h2HUbAYPT8pxXBnRe0b-I0C4_NP1Jqw=s900-c-k-c0x00ffffff-no-rj", Agro tv
 https://v4.tustreaming.cl/bellatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM", Ainy tv
-http://hd.istbolivia.com:1935/aynitv/aynitv/chunklist_w1526838493.m3u8
-
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg", Alegrando tv
 https://cdn2.streamgato.us/alegrandotv/alegrandotv/playlist.m3u8
  
@@ -157,7 +154,10 @@ https://tv.streaming-chile.com:19360/autonomatv/autonomatv.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG",AXN
 http://go.iptvhn.net:25461/Smart/Smart123/6481
- 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM", Ayni tv
+http://hd.istbolivia.com:1935/aynitv/aynitv/chunklist_w1526838493.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" ,Azteca 7
 http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/24033
  
@@ -566,13 +566,13 @@ https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUtyzO6tKJ_dWpplO9lKhgI-LFedJhb3OWy9moO79Nylz_P9-Jb1TYNmqb-ujLnd4Mm10&usqp=CAU", CTC
 http://190.108.83.142:8000/play/a007/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dnk9XbJ8XEJYkLX_vaEqcVJuXMJZ8pp2sI28RV_uG96YXeFmbxBfMdN8hGeiqhY7s9gD" ,CTV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg" ,CTV
 https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/56/27/8d/56278d78-4c1b-8186-8c6d-6520a608e4ab/source/512x512bb.jpg", Ctv digital
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dnk9XbJ8XEJYkLX_vaEqcVJuXMJZ8pp2sI28RV_uG96YXeFmbxBfMdN8hGeiqhY7s9gD", Ctv digital
 https://stmv.panel.grupolimalive.com/digitaltv12/digitaltv12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_N9oMWZ_H0A/maxresdefault.jpg", Daja tv
