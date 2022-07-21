@@ -657,7 +657,7 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cnt-media.boxqos.com/consumer/canals/canal-del-futbol/logo/canal-del-futbol-logo.png",ECDF
 http://streamgo.vip:8008/cris123/cris123/104110
 
-#EXTINF:-1 tvg-logo="", Eclipse tv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LfjjnbqnHWF4rR-gTXZwzAYLnF-LhaFvElKPQSAWeZ6BCwtdLOfT01SG5kiE_csyDQ=h400-rw", Eclipse tv
 https://stream.oursnetworktv.com:443/latin/eclipsetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", Ecuador TV
@@ -942,7 +942,7 @@ http://138.117.4.70:8075/channel22/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" ,Las estrellas 
 http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/51171
 
-#EXTINF:-1 tvg-logo="",La tele
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_tele_peru_2020.png/1121px-La_tele_peru_2020.png",La tele
 http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/84176
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg",Latina
@@ -1498,7 +1498,7 @@ https://videohd.live:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/972/63/png-transparent-canal-digital-cable-television-canal-digitaal-telenor-telecommunication-digital-talk-logo-text-service-trademark.png",tele digital
 https://videohd.live:19360/8014/8014.m3u8
 
-#EXTINF:-1 tvg-logo="", Teledivertida
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJXGI4Dcdi3XBkORR94mwEjmAjg-vyjSGorQ&usqp=CAU", Teledivertida
 https://tv2.panelstream.live:3141/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409724438493401089/-x-2Fhk6.jpg" ,Telefe
 http://legendtvs.com:80/test2/12345/295765 
