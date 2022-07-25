@@ -297,7 +297,7 @@ http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/57920
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/912721115696500737/wVEWYAU6_400x400.jpg", Canal 6 El Salvador 
 http://tvbross.com:8090/Sebastian11/Sebastian11/57
 
-#EXTINF:-1 tvg-logo="", Canal 6 mar del plata 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/rF6PzucIXlyKFEFcO7cR5FXO9rNj8gjnRG56O2Vqv7QqKmLBPOocHdEK7lmrJYxeuWzd1-3WwA=s900-c-k-c0x00ffffff-no-rj", Canal 6 mar del plata 
 https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canal_6_Nicaraguense.png/150px-Canal_6_Nicaraguense.png", Canal 6 Nicaraguense
@@ -1644,9 +1644,6 @@ https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg",TruTV
 http://legendtvs.com:80/test2/12345/364404
 
-#EXTINF:-1 tvg-logo="",Trv
-https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQmc5wPZ0d_Um_sbsUoUc_7M7DtYnm8v8cD1L8r=s900-c-k-c0x00ffffff-no-rj", TSM
 https://stmv3.voxtvhd.com.br:443/canal17005/canal17005/playlist.m3u8
 
@@ -1818,7 +1815,7 @@ https://vps1.lnx.pe/vamisa/envivo/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042013/via_alto_mayo.png?itok=EGPtW5nL", Via altomayo
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
-#EXTINF:-1 tvg-logo="",Via X
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1166012173228957697/TYbQyQ9v_400x400.jpg",Via X
 http://45.181.121.57:8111/play/131
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9VotSax0rIGlbTxfllP0I1iBtPdaA9wTwmQ&usqp=CAU", Vida tv
@@ -1836,7 +1833,7 @@ https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_a1343f704ae0412ba28bab4239e78411~mv2.png/v1/fill/w_540,h_540,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/visiontv.png", Visión tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-#EXTINF:-1 tvg-logo="", Visof
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288624686214057989/kQtz3gOj_400x400.jpg", Visof
 https://stream.oursnetworktv.com:443/latin/Visof/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w" ,VIWIX Tv
@@ -1896,7 +1893,7 @@ https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/awJFKkErRT8yBwy7jtSHEz0Nigf2fMSwKReLV6Zrqom9mK_SStGDrUjygYwDw4NHoMSc1Afb75Y=s900-c-k-c0x00ffffff-no-rj",Zona Latina
 http://compitv.info:8080/ADELSO2/Adelso2/334100
 
-#EXTINF:-1 tvg-logo="",Zoomback 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ApTpMIAXfkI/maxresdefault.jpg",Zoomback 
 http://45.181.121.57:8111/play/138
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTQb2s6VuTLEYjQJ0YGcUoKmHCEcXSxxK_cSWRovA=s900-c-k-c0x00ffffff-no-rj", Zonda tv
