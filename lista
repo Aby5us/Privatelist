@@ -160,10 +160,10 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/chunklist_w1526838493.m3u8
 http://grootplay.com:25461/joseluis/joseluis/26
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" ,Azteca Cinema
-http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/51184
+http://grootplay.com:25461/joseluis/joseluis/22
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" ,Azteca corazón
-http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/51294
+http://grootplay.com:25461/joseluis/joseluis/23
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8h1GgObEjQI/maxresdefault.jpg",Azteca Mundo
 http://grootplay.com:25461/joseluis/joseluis/24
@@ -172,13 +172,13 @@ http://grootplay.com:25461/joseluis/joseluis/24
 http://grootplay.com:25461/joseluis/joseluis/56884
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/BANDAMAX.jpg/revision/latest/scale-to-width-down/250?cb=20200206222614&path-prefix=es", Bandamax
-http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/13943
+http://grootplay.com:25461/joseluis/joseluis/27
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/canal-41-bayres-tv-en-vivo-2329.png", Bayres tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
   
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/1/1b/Beinsports.png",Bein sport ñ
-http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/1916
+http://redcoliptv.com:8090/argjosejensen5920/pCcenfYrYW/44342
   
 #EXTINF:-1 tvg-logo="https://www.tvbellaasuncion.com/wp-content/uploads/2021/04/logobella.jpg", Bella Asunción tv
 https://tvdatta.com:3602/stream/play.m3u8
@@ -346,7 +346,7 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/57925
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png",Canal 11 Guatemala 
-http://grootplay.com:25461/joseluis/joseluis/56035
+http://redcoliptv.com:8090/argjosejensen5920/pCcenfYrYW/2378
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Canal_11_HN_logo_2010.png/800px-Canal_11_HN_logo_2010.png", Canal 11 Honduras
 http://168.232.168.242:8089/play/a0i5/index.m3u8
@@ -1429,7 +1429,7 @@ https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 http://redcoliptv.com:8090/argjosejensen5920/pCcenfYrYW/1045
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" ,Studio Universal
-http://titanlivetv.com:8080/zecarias/FsnCGgXCRX/24121
+http://grootplay.com:25461/joseluis/joseluis/116
  
 #EXTINF:-1, tvg-logo="https://www.supercanal.com.pe/wp-content/uploads/2020/10/cropped-cropped-favicon-super-cnaal-1-300x182.png",Super Canal
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
