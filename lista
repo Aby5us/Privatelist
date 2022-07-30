@@ -132,7 +132,7 @@ https://v4.tustreaming.cl/atmtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png", ATV
 http://grootplay.com:25461/joseluis/joseluis/683
  
-(#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/5/50545.v24.png", Atv colombia
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/fblogo/5/50545.v24.png", Atv colombia
 https://movil.ejeserver.com/live/verteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image42778820638.jpg", Atv honduras
@@ -709,7 +709,7 @@ http://odenfull.co:2086/Chung46/mWXPLebDOc/212842
 http://tv-cool.com:25461/st200/a2139ad15a/29788
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4
-http://odenfull.co:2086/Chung46/mWXPLebDOc/210441
+http://redcoliptv.com:8090/argjosejensen5920/pCcenfYrYW/37911
  
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/featuredImage.jpg?auto=format&fill=blur&fit=fill&ixlib=react-9.1.5&h=732&w=412",E-sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -724,7 +724,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png", Etc
-http://disfruta.net:80/rafapar18/YD1FyIqYkM/285
+http://grootplay.com:25461/joseluis/joseluis/230
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png", Exa tv
 http://168.232.168.242:8089/play/a09q/index.m3u8
@@ -745,7 +745,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 http://tv-cool.com:25461/st200/a2139ad15a/29972
  
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/03/FOX-SPORTS-1-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.png",Fox Sports 1
-http://streamgo.vip:8008/cris123/cris123/127990
+http://odenfull.co:2086/Chung46/mWXPLebDOc/135264
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png",Fox Sports 2
 http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/37872
@@ -817,7 +817,7 @@ http://grootplay.com:25461/joseluis/joseluis/86
 http://grootplay.com:25461/joseluis/joseluis/245
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTGYbyhCW6fTTGkBkDDHNrmxQqLRvaQKtzM7FPgjA=s900-c-k-c0x00ffffff-no-rj" ,Goltv
-http://p1w2.info:4456/lucas/lucas/112154
+http://redcoliptv.com:8090/argjosejensen5920/pCcenfYrYW/2689
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png",Gourmet
 http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/12335
@@ -1889,7 +1889,10 @@ https://inliveserver.com:1936/10016/10016/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8ehtL21CWvyd8_iE-ml8AOh8CA8BK_MexCcjJWMqBkcBpxp_wpEyHtuJ6Iu71Jg2whXt=w240-h480-rw",Villavision
 https://stmv3.voxtvhd.com.br:443/4004/4004/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Visión
+https://video01.logicahost.com.br/visiontv/visiontv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWF87u9p7dYcrU6gyeIiNkLKNS_r_vOmlQA&usqp=CAU", Visión NDV
 https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
 
