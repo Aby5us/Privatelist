@@ -1699,7 +1699,7 @@ https://v-pi.theus6tv.tk/hls/62.2/playlist.m3u8
 https://tv.streaming-chile.com:19360/temucotelevision/temucotelevision.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/olJ8Fm6hhpB4dYtD92dhyOOnpTvq9mVHbaoPqcwbJg7PKP0fqscrgQ0H2dnW7A6dmMTvwTNlMQ=s900-c-k-c0x00ffffff-no-rj", Ticavision
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+https://5ee7c2b857b7f.streamlock.net:443/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png", Tigueritos tv
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
