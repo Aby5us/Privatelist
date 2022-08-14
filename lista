@@ -210,6 +210,9 @@ http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/38096
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRREptCoaxM_qODKeIfZ6DIzz1ememvJX6hinSzQ_TnXRSiEsKFSltoaoCusgCWjvzbGUE&usqp=CAU",Bolivia tv
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Bo plus tv
+Https://servilive.com:3342/live/boplustvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Ym9yaXN0di5hcGJuYV9zY3JlZW5fMV8xNjMxMTkwNzI2XzAyMA/screen-1.jpg?h=355&fakeurl=1&type=.jpg",Boris tv
 https://cloudvideo.servers10.com:8081/8126/index.m3u8
 
@@ -239,6 +242,9 @@ https://cdn2.streamgato.us/canatvdigital/canatvdigital/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal 1 Colombia
 http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/304223
+
+#EXTINF:-1 tvg-logo="",Canal 1 Costa Rica 
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Canal_2_logo.svg/1200px-Canal_2_logo.svg.png", Canal 2
 https://video13.virtualtronics.com/streamer/canal2.m3u8
@@ -452,7 +458,10 @@ http://45.181.121.57:8111/play/124
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/paisesficticios/images/5/50/Canal_Dos_2018.png/revision/latest/scale-to-width-down/200?cb=20180426040418&path-prefix=es",Canal Dos kids
 http://45.181.121.57:8111/play/002
- 
+
+#EXTINF:-1 tvg-logo="", Canal local 2
+https://stmv2.zcastbr.com/canallocal2/canallocal2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRLB_LPNE_9tmLgEwMTWWosuJw-cJcpyxmxmm9B=s900-c-k-c0x00ffffff-no-rj",Canal coop
 http://csc-nod-edge01.sensa.com.ar/output/NDS/tvcoopjpH/track_0_2500/playlist.m3u8
  
@@ -561,6 +570,9 @@ https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRCiKK3RQWJsmqymH672maanaXnh6oywZM2eTKx=s900-c-k-c0x00ffffff-no-rj", Constanza tv
 https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Contacto bolivia
+https://servilive.com:3342/live/boplustvlive.m3u8
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Contivision-en-vivo-Online.png", Contivision
 https://unlimited6-cl.dps.live/contivision/contivision.smil/playlist.m3u8
   
@@ -569,7 +581,10 @@ https://live.obslivestream.com/controversiatv/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg", Cosmos tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Cotubanama tv
+https://cdn4.hostlagarto.com:8081/static/cotubanamatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ", CNC
 https://cloudvideo.servers10.com:8081/8150/index.m3u8 
  
@@ -590,7 +605,10 @@ https://vivo.solumedia.com:19360/crossing/crossing.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUtyzO6tKJ_dWpplO9lKhgI-LFedJhb3OWy9moO79Nylz_P9-Jb1TYNmqb-ujLnd4Mm10&usqp=CAU", CTC
 http://190.108.83.142:8000/play/a007/index.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", CTN tv
+https://5bf8041cb3fed.streamlock.net/CTNTV/CTNTV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctv.jpg" ,CTV
 https://vdo2.streamgato.us:3978/live/ctvlive.m3u8
 
