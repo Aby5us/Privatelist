@@ -453,7 +453,7 @@ http://45.181.121.57:8111/play/124
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/paisesficticios/images/5/50/Canal_Dos_2018.png/revision/latest/scale-to-width-down/200?cb=20180426040418&path-prefix=es",Canal Dos kids
 http://45.181.121.57:8111/play/002
 
-#EXTINF:-1 tvg-logo="", Canal local 2
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8QSRkXVAZebbePdldZEeAGx6bcOkZjmZnyllsQ=s900-c-k-c0x00ffffff-no-rj", Canal local 2
 https://stmv2.zcastbr.com/canallocal2/canallocal2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRLB_LPNE_9tmLgEwMTWWosuJw-cJcpyxmxmm9B=s900-c-k-c0x00ffffff-no-rj",Canal coop
@@ -516,7 +516,7 @@ http://streamgo.vip:8008/rodrigo12/rodrigo12/28233
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5hoSO3NlLM0/YPgXGfLqr_I/AAAAAAAAP80/SQC_Z8FTUXM5nnle177CY6angaEwtJFygCLcBGAsYHQ/s0/Chinola%2BTV.png", Chinola tv
 https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="",Chivacoa
+#EXTINF:-1 tvg-logo="https://chivacoatv.com/sitepad-data/uploads//2022/06/LOGO-CANAL-1280X720.png",Chivacoa
 https://vdo.panelstreaming.live:3974/hybrid/play.m3u8
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478039362185142282/tgRBrFKK_400x400.jpg",CHTV
@@ -549,9 +549,6 @@ https://cdn2.streamgato.us/%20ctvd/%20ctvd/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7ulD9Icp7Sc4paGNf4qiZUkvWeyhlPFH8KLge3vGQ2aYDPjvovMM88m-5VC6IdFrCg&usqp=CAU", Club tv
 https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
 
-(#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0260/0917/4088/products/logo_coco_580x.png?v=1569798166", Coco tv
-http://latinchannel.tv:8080/majo/majo/31983
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcWATR5urEbWTt9zBbuZhsyZJ6CeGAJdETYpqw69KuRhHxunVBz3EXMkvGIGfUM_iSjw&usqp=CAU",  Colosal Tv
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w2104890955.m3u8
 
@@ -564,13 +561,13 @@ https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRCiKK3RQWJsmqymH672maanaXnh6oywZM2eTKx=s900-c-k-c0x00ffffff-no-rj", Constanza tv
 https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Contacto bolivia
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-k8QaL8ppB4onwcnXJGx0QfU7NoPBIGtz6D8Wu=s900-c-k-c0x00ffffff-no-rj", Contacto bolivia
 https://servilive.com:3342/live/boplustvlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Contivision-en-vivo-Online.png", Contivision
 https://unlimited6-cl.dps.live/contivision/contivision.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", Control vg 
+#EXTINF:-1 tvg-logo="https://www.control.vg/wp-content/uploads/2018/09/facebook-preview.jpg", Control vg 
 https://tls-cl.cdnz.cl/onradio-5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjVFc8LdEXTOKFguwxeB6uzyasyZJCR4A-MNR7J095WCCsY03wESxyTK-BRRsKM-ClJA&usqp=CAU", Controversia tv
@@ -579,7 +576,7 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://fmcosmos.com/wp-content/uploads/2016/12/LOGO-2016-chico-3.jpg", Cosmos tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="", Cotubanama tv
+#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/XBZm1nL7kgjjH5FEAN0NmeqWVaa-qlyqLJMuSbe3RCit7ZaZtpcXbf3nFFK2BbC2Lds", Cotubanama tv
 https://cdn4.hostlagarto.com:8081/static/cotubanamatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/a5x8VaDVvMskcJ-FQvcc_JYISud83WBb42g7opg5XuNCVPiIUBFuDuLSBFg2aN7AaQ", CNC
