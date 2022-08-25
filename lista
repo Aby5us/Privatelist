@@ -333,6 +333,9 @@ https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipN4Ds8zftd54MDlxBNVad2-4NSzTvejD-d3dOhb=w768-h768-n-o-v1", Canal 9 barbe
 http://iptv.streamhispanatv.net:25461/playgt/123456/69
 
+#EXTINF:-1 tvg-logo="", Canal 9 Ixchiguan
+http://iptv.streamhispanatv.net:25461/playgt/123456/193
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Canal_9_Nicaragua_nuevo.png", Canal 9 Nicaragua 
 http://138.117.4.70:8075/channel9/playlist.m3u8
 
@@ -400,7 +403,7 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-13-Viva-Nicaragua-en-vivo-Online.png",Canal 13  Viva Nicaragua 
-http://grootplay.com:25461/joseluis/joseluis/56078
+http://tvportal.one:80/mac/mac/127538
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Canal_15_Nicarag%C3%BCense_2019.png", Canal 15 Nicaraguense
 http://138.117.4.70:8075/channel15/playlist.m3u8
@@ -787,7 +790,7 @@ http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/35049
 http://boomwolk.site:8880/Barcelona/123456789/24560
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png",Fox Sports 2
-http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/37872
+http://tvportal.one:80/mac/mac/434454
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b96645ea-a696-4fc7-bf17-3d7f0033b33a_m.jpg",Fox Sports 3
 http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/34638
@@ -823,7 +826,7 @@ http://amixtv.com:8080/galaxiatv/video.m3u8
 https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2019/05/gama-tv-en-vivo.jpg", GamaTV
-http://legendtvs.com:80/test2/12345/364282
+http://tvportal.one:80/mac/mac/127444
  
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/56urhtdsghrjthdgf.jpg", Genios tv
 https://live.obslivestream.com/geniostvmux/index.m3u8
@@ -831,8 +834,8 @@ https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UscOGMJ_SzfjKpsGz-rBT02q0AmDGY7NgDk3RPSvxxnfRC6LfX1JTPGgGLaL6GCtHqY", GEN tv
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1222959189766627328/SYfmOK59_400x400.jpg", Girovisual
-https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1222959189766627328/SYfmOK59_400x400.jpg", G Vision 
+https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png", Glitz
 http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/35200
@@ -859,13 +862,13 @@ http://boomwolk.site:8880/Barcelona/123456789/24228
 http://grootplay.com:25461/joseluis/joseluis/86
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" ,Golden Premier
-http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/34912
+http://tvportal.one:80/mac/mac/436330
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTGYbyhCW6fTTGkBkDDHNrmxQqLRvaQKtzM7FPgjA=s900-c-k-c0x00ffffff-no-rj" ,Goltv
 http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/304391
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png",Gourmet
-http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/35047
+http://tvportal.one:80/mac/mac/434460
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu3CJPm2hjzTtPs2vscbWgMhMrkbi0Ep0E-HywRrR7r7n937H13oK56bEp0ZAOZVdvL7s&usqp=CAU", Guacara tv
 https://cloudflare.streamgato.us:3180/live/guacaratvlive.m3u8
@@ -883,7 +886,7 @@ https://5790d294af2dc.streamlock.net:443/8100/8100/playlist.m3u8
 http://boomwolk.site:8880/Barcelona/123456789/24314
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-2-hd_m.png",HBO 2
-http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/34889
+http://tvportal.one:80/mac/mac/436334
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" ,HBO Family
 http://go.iptvhn.net:25461/Smart/Smart123/6569
@@ -895,10 +898,10 @@ http://boomwolk.site:8880/Barcelona/123456789/24535
 http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/35290
  
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TOnPpDUEdXI/YSsClHnLwaI/AAAAAAAAAcY/BPPw2BiUw1QtrbZ1fTLUSz5kk4jUe5ZuACLcBGAsYHQ/s320/96.jpg" ,HBO Pop
-http://grootplay.com:25461/joseluis/joseluis/98
+http://tvportal.one:80/mac/mac/438129
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/109fb1ec-64b0-4954-ab26-5e8296e1ee76_m.jpg",Hbo signature
-http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/34901
+http://tvportal.one:80/mac/mac/438130
  
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png",HBO Xtreme
 http://45.181.121.57:8111/play/020
@@ -1018,7 +1021,7 @@ http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/35037
 http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/304409
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg",Latina
-http://legendtvs.com:80/test2/12345/364775
+http://tvportal.one:80/mac/mac/3121
  
 #EXTINF:-1 tvg-logo="https://domintapi.com/images/station/domint1336img05-13-20201589404095.jpeg", Latina tv
 https://ss2.domint.net:3210/ltv_str/latinatv/chunklist_w75759857.m3u8
@@ -1039,7 +1042,7 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 http://lencatelevision.com:8080/hls/ltv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://conpochoclos.com/wp-content/uploads/2021/06/Lifetime.jpg",Lifetime
-http://45.181.121.57:8111/play/100
+http://tvportal.one:80/mac/mac/436367
  
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOdiPxsZgANL7vXmAtUzjGAJ-T2Bf1Vl3utw_bK=w1080-h608-p-no-v0", Lima live
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
@@ -1315,6 +1318,9 @@ http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/32658
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Panavision_logo.svg/1200px-Panavision_logo.svg.png", Panavision
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="",Panc tv
+https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmhhNISbZUnH-IXV5mdF1SFWTfQICcMKItyhpD=s900-c-k-c0x00ffffff-no-rj",Paramount
 http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/34984
  
@@ -1422,7 +1428,10 @@ https://stmvideo1.livecastv.com/recordando/recordando/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://renuevadigital.com.bo/assets/img/icono.png", Renueva digital
 https://my.tiviapp.com/renuevadigital/tracks-v1a1/mono.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Rewind
+https://scl.edge.grupoz.cl/rewindtv/ngrp:live_allhd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/60ef29f0-d7fb-487d-85c8-a1fbcf2ff8da_m.jpg",RCN
 http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/304257
  
@@ -1771,6 +1780,9 @@ https://v-pi.theus6tv.tk/hls/62.2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://temucotelevision.cl/web/wp-content/uploads/2019/01/logottvok.png", Temuco tv
 https://tv.streaming-chile.com:19360/temucotelevision/temucotelevision.m3u8
 
+#EXTINF:-1 tvg-logo="", The retro chanel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/olJ8Fm6hhpB4dYtD92dhyOOnpTvq9mVHbaoPqcwbJg7PKP0fqscrgQ0H2dnW7A6dmMTvwTNlMQ=s900-c-k-c0x00ffffff-no-rj", Ticavision
 https://62fc643fbf1aa.streamlock.net:443/HBTV/HBTV/playlist.m3u8
 
@@ -1884,6 +1896,9 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
  
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/071ae958bc1c7efb9e1c771865d5d4e3c1ed4ef170c77b81c8bde250ba37a4aa.png",Tv exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+
+#EXTINF:-1 tvg-logo="", Tv florencia
+http://iptv.streamhispanatv.net:25461/playgt/123456/192
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1175_TV_Hits.png", Tv hits 
 https://paneltv.online:1936/8156/8156/playlist.m3u8
