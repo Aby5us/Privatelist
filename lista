@@ -1342,10 +1342,13 @@ https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imagenestotales.com/wp-content/uploads/2018/04/depositphotos_71252071-stock-photo-peru-flag-map.jpg", Perú chanel
 https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLm15c3BlY2lhbC5sYXVuY2hlci5paW90dl9zY3JlZW5fMV8xNTMyNzM0NjQyXzA3Mg/screen-1.jpg?fakeurl=1&type=.webp", Peru GO tv
+http://190.108.83.142:8000/play/a006/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_nk61Sz-_hjniOtp6lLrrQJmFdEeWO-pBQ&usqp=CAU", Planea TV
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/04/68de664a-a587-4a7a-b715-4fea516ff0f5.jpg", Planeta tv
+(#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2021/04/68de664a-a587-4a7a-b715-4fea516ff0f5.jpg", Planeta tv
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2022/02/cropped-Logo-formas-planeta-114x114.png", Planetaradio tv
@@ -1764,7 +1767,10 @@ https://5b50404ec5e4c.streamlock.net/8060/8060/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/386a41b84216c7010cf0b4ed536fc04f74e2f936aec3509bd1e1b6fd52628f11.png" ,Televisión Puruwa
 https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/City-Logos/Putumayo-Water-Logo.png",Television Putumayo
+https://hvtrafico.ddns.net/villavision/villavision/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.plataformaradiotv.com/wp-content/uploads/2018/12/our_team_tv_tarapoto.jpg",Television tarapoto
 https://videoserver.tmcreativos.com:19360/televisiontpp/televisiontpp.m3u8
 
@@ -1969,9 +1975,6 @@ http://svtv.xyz:8080/jorgemoli/YNBVV/191206
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVrx8r-2q9l_wbI_V9Oo8FFc6FUfEAvtGktb-WSJyj-Wqp03iJtSQ1UbIOkCsGuvibM0&usqp=CAU", Unicanal
 http://45.55.127.106/live/unicanal.m3u8
  
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/iHxFTbI9rCtN9oxQPQB9EAQD71yvV8MQYiGG7k8kYdWfEtcmDRzj6SJ_YIFstzMHY7C5Yxriow=s900-c-k-c0x00ffffff-no-rj", Uchu tv
-http://190.108.83.142:8000/play/a006/index.m3u8
- 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-asS6csD-A_s/YawVF5znJYI/AAAAAAAA-GU/y4etdFMiNb0hRFYipF6rkGZzyCJgrawFgCNcBGAsYHQ/s0/unife-2021.png", Unife
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/playlist.m3u8 
 
@@ -2049,12 +2052,6 @@ https://video.misistemareseller.com:443/vidatv/vidatv/chunklist_w308076895.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiodigitaltv.com/wp-content/uploads/2022/02/WhatsApp-Image-2022-02-01-at-8.35.28-AM.jpeg", Villa Alta gracia
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/8ehtL21CWvyd8_iE-ml8AOh8CA8BK_MexCcjJWMqBkcBpxp_wpEyHtuJ6Iu71Jg2whXt=w240-h480-rw",Villavision
-https://hvtrafico.ddns.net/villavision/villavision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/906605430255824896/smiuj4PO_400x400.jpg", Visión
-https://video01.logicahost.com.br/visiontv/visiontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWF87u9p7dYcrU6gyeIiNkLKNS_r_vOmlQA&usqp=CAU", Visión NDV
 https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
