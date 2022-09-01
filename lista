@@ -2187,7 +2187,10 @@ https://tv.xtremochannel.com:3730/live/xtremochannellive.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBwqhfd4_IK4PYFgLzB-1Eppjr1ESl8DW1IHIsbC_jBEOorcwzvUsVLr1hSF343XNinLc&usqp=CAU", Xtv
 https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Ysmavision tv
+https://5790d294af2dc.streamlock.net:443/8056/8056/chunklist_w1466229081.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRrbURdrB5H3lMCizVyGzkuHp7zH9M_KXJssOsO=s900-c-k-c0x00ffffff-no-rj", Zaracay tv
 https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
  
