@@ -149,7 +149,10 @@ https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 
 #EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png", Auntentica tv
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://uploads-ssl.webflow.com/5accea787901614b35b4fd61/5b0dd0c13ce6da614a4ef4e3_25%402x-8.png", Austral tv
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://autonomatv.cl/wp-content/uploads/2021/07/AUTONOMA-tv-1-ok-chico-2-272x147.png",Autónoma tv
 https://tv.streaming-chile.com:19360/autonomatv/autonomatv.m3u8
  
@@ -1316,7 +1319,10 @@ https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSmhhNISbZUnH-IXV5mdF1SFWTfQICcMKItyhpD=s900-c-k-c0x00ffffff-no-rj",Paramount
 http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/34984
- 
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ggjEts4xBCx3jw0Mgy2aJTlpQjIzNBZgdg43gmqAor5mSP2dc9PKpyTCMr9C9pnIcCXqHtwsrA=s900-c-k-c0x00ffffff-no-rj", Pasaje tv
+https://canal.pasajetv.com/PasajeTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png",Pasiones 
 http://daleplay.club:8080/alan/654321/69265
 
@@ -1757,9 +1763,6 @@ http://svtv.xyz:8080/jorgemoli/YNBVV/44336
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/televisiondeleste.net/wp-content/uploads/2021/04/LogoTVEste2.png?fit=462%2C112&ssl=1",Television del este
 https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/televisin-manabita-1475.png", Television Manabita
-https://0bf3-186-3-179-208.sa.ngrok.io/hls/stream.m3u8
 
 (#EXTINF:-1 tvg-logo="https://comunicacionesmetropolis.com/index/image3@2x.PNG", Televisión metropolis
 https://5b50404ec5e4c.streamlock.net/8060/8060/playlist.m3u8
