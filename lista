@@ -1979,7 +1979,10 @@ https://5dcabf026b188.streamlock.net/orbitatv/livestream/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwze26QeNZqB74eCyjBIweB4m37A9YpbApm6FDJTpmyW2zkOnXeRK8OblRn6nazB6zZF4&usqp=CAU", Tv pop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Tv quinta región 
+https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzObWJgQK0ymsLl1oJ3BDrQgsjenFLRvlHhUO5C-JqXz8s28G6R0Fhr152R6bMGoJTEuA&usqp=CAU", Tvr
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
  
@@ -2006,7 +2009,13 @@ https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://tycsports.hiringroom.com/data/accounts/tycsports/microsite/e43e6e743eebadfb662e235ca68fe3f2.png",TyC sports
 http://svtv.xyz:8080/jorgemoli/YNBVV/30963
- 
+
+#EXTINF:-1 tvg-logo="", Uatv
+https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",Ucv
+http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsvGs48UfLG9oPGv_94PsypufsvdkuJ6vIqoPZhw=s900-c-k-c0x00ffffff-no-rj",Unicable
 http://svtv.xyz:8080/jorgemoli/YNBVV/191206
  
