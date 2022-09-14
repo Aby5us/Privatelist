@@ -898,16 +898,16 @@ http://fivetv.org:25461/Hannah21/Hannah21/9209
 http://fivetv.org:25461/Hannah21/Hannah21/9213
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png", Hbo mundi
-http://boomwolk.site:8880/Barcelona/123456789/24535
+http://fivetv.org:25461/Hannah21/Hannah21/9206
  
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/HBO-PLUS-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",HBO Plus
 http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/35290
  
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TOnPpDUEdXI/YSsClHnLwaI/AAAAAAAAAcY/BPPw2BiUw1QtrbZ1fTLUSz5kk4jUe5ZuACLcBGAsYHQ/s320/96.jpg" ,HBO Pop
-http://daleplay.club:8080/alan/654321/1242
+http://mastertv.pro:8080/David/123456789/93493
  
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/109fb1ec-64b0-4954-ab26-5e8296e1ee76_m.jpg",Hbo signature
-http://daleplay.club:8080/alan/654321/13543
+http://mastertv.pro:8080/David/123456789/38267
  
 #EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png",HBO Xtreme
 http://45.181.121.57:8111/play/020
@@ -916,7 +916,7 @@ http://45.181.121.57:8111/play/020
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTsM11yYZz30Ufj0HXM35fSHcbbepUEQv0EbdSv1w=s900-c-k-c0x00ffffff-no-rj",History Channel
-http://daleplay.club:8080/alan/654321/53481
+http://mastertv.pro:8080/David/123456789/6141
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/240px-History2Logo2019.png",History Channel 2
 http://daleplay.club:8080/alan/654321/53483
@@ -946,7 +946,7 @@ https://srv.panelcast.net/halcontv/halcontv/playlist.m3u8
 http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" ,Imagen
-http://mon-key.us:25461/santiago12/santiago12/94
+http://mastertv.pro:8080/David/123456789/92235
  
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/p7wSwsG6395ETKdZXiBbJaHO90gptPyFUpVfJJbFCo1EWS8somTwzMDP8Ujv7FVgFlA=s180-rw", Imagen Universal
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
@@ -976,7 +976,7 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/61
 http://190.108.83.142:8000/play/a00g/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LCuL8q4SW2L3GFXUIWIB6Ghn6lCT0HDAPhTxZaUH9ggf_ETKdtMgzwNqSX5GQ0xgLA", Kanal D drama
-http://svtv.xyz:8080/jorgemoli/YNBVV/275906
+http://mastertv.pro:8080/David/123456789/6196
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_AxQOvY0MLfyXJt0lQt8zShJxEE5i3qL3A&usqp=CAU",Karavana tv
 http://45.181.121.57:8111/play/134
@@ -1046,6 +1046,9 @@ http://tvportal.one:80/mac/mac/436367
  
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOdiPxsZgANL7vXmAtUzjGAJ-T2Bf1Vl3utw_bK=w1080-h608-p-no-v0", Lima live
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Limón tv
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8xbuDiLiJD7FoEBnwLR2W_dfoTAZQcIp6mabe3Q7g=s900-c-k-c0x00ffffff-no-rj",Linieros tv 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.twitch.tv/linierostv
@@ -1143,8 +1146,8 @@ https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.morrodigital.com/wp-content/uploads/2022/02/cropped-photo_2022-02-10_09-46-23.jpg", Morro tv
 https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg", Movistar la liga
-http://boomwolk.site:8880/Barcelona/123456789/28474
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads/2019/07/movistar-laliga-logo.jpg", Movistar liga de campeones 
+http://mastertv.pro:8080/David/123456789/75496
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2560px-MTV_Logo.svg.png",MTV
 http://fivetv.org:25461/Hannah21/Hannah21/20898
@@ -1951,7 +1954,7 @@ https://unlimited2-cl-isp.dps.live/tvo/tvo.smil/playlist.m3u8
 https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3c/TVM-logo.jpg/revision/latest?cb=20190702172107&path-prefix=es", TVM
-http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.twitch.tv/tvmelsalvador
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/320?cb=20211128231238&path-prefix=es", Tv mas2
 https://marine2.miplay.cl/tateti/playlist.m3u8
@@ -1980,6 +1983,9 @@ https://5dcabf026b188.streamlock.net/orbitatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwze26QeNZqB74eCyjBIweB4m37A9YpbApm6FDJTpmyW2zkOnXeRK8OblRn6nazB6zZF4&usqp=CAU", Tv pop
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="",Tvq
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x80fskz
+
 #EXTINF:-1 tvg-logo="", Tv quinta región 
 https://mediacpstreamchile.com:1936/8002/8002/playlist.m3u8
 
@@ -2003,6 +2009,9 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNlxwXCHEnECsY4kcnUFTm5mnY5csfx1n_AgSI0Z02nL4VAcVcyQTM5wjQmocu-H3nBwY&usqp=CAU", Tv tropical
 https://cloud2.streaminglivehd.com:1936/8222/8222/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Tv tun
+http://iptv.streamhispanatv.net:25461/playgt/123456/177
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_b5dhaK8DXs0WhTPTODR7juarfoLCi1OyRkSoeVg=s900-c-k-c0x00ffffff-no-rj",TVU Sucre
 https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8
