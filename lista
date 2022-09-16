@@ -55,7 +55,7 @@ https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 https://byecableiptv.com:443/alfatv/alfatv.stream/paylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/6vt8JAXtQs3RxTcSBs2oSDQV1STdC9cO7Q_36OXRoajKbIaCJn0kwbEIItqs45937SCj0Gca=s900-c-k-c0x00ffffff-no-rj", Albardon tv
-https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
+https://vd01.streaminghd.net.ar:3056/live/albardonlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2022/04/atv39-700x420.jpg", Almaya tv
 https://59ce1298bfb98.streamlock.net:443/almayatv/almayatv/playlist.m3u8
@@ -348,6 +348,9 @@ https://cdn.streamhispanatv.net:3113/live/canal9tvgtlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png", Canal 10 Nicaragua 
 http://138.117.4.70:8075/channel10/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Canal 10 Pergamino
+https://panel.dattalive.com/8134/8134/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/KSTW_1974-KTVT_1980_logo.svg/revision/latest/scale-to-width-down/200?cb=20191227044013", Canal 11 
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
@@ -378,7 +381,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/IxHOAM-fDrEzG6Xoxv0t2jZm351GgCsZgu6fbLDeZPCvfO_Jybh6vfd_SpI4W_aBp9UnBcqk2g=s900-c-k-c0x00ffffff-no-rj",Canal 12 misiones
 https://g5.mc-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTF9D8PqLw11sat1yywFjxxbhGCIaV2FJmnkhLidA=s900-c-k-c0x00ffffff-no-rj", Canal 12 Nicavisión 
+(#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTF9D8PqLw11sat1yywFjxxbhGCIaV2FJmnkhLidA=s900-c-k-c0x00ffffff-no-rj", Canal 12 Nicavisión 
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t0st_Nh1mao/maxresdefault.jpg", Canal 12 RTV
@@ -998,6 +1001,9 @@ https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lahoratv.com/wp-content/uploads/2021/08/WhatsApp-Image-2021-07-29-at-11.44.12-AM-300x140.jpeg", La hora tv
 https://ss5.domint.net:3056/lhtv_str/lahoratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", La poderosa tv
+https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTrUY5_qXeGHCoycebvE2x-FbOBkTQ9_LgTg&usqp=CAU",La Red
 http://dnsplay.xyz:80/nfjttyzt/dHgctQxt/35309
@@ -1746,6 +1752,9 @@ http://boomwolk.site:8880/Barcelona/123456789/143509
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0mMyzfHTn8AoQ2_obkPImJve3hKw1WhMG8IbDe355KDwii0MJXxlipfzKdIOBWNtZZU8&usqp=CAU", Telenica 8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Teleocho
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://teleoriental.com.do/wp-content/uploads/2021/03/cropped-teleoriental.jpg", Tele oriental digital
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
  
@@ -1934,7 +1943,10 @@ https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tvdos-canal-2-de-salta-en-vivo-2322.png", Tv dos Salta
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Tves
+https://stm1.rootuy.xyz:19360/envivotv/envivotv.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/071ae958bc1c7efb9e1c771865d5d4e3c1ed4ef170c77b81c8bde250ba37a4aa.png",Tv exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
