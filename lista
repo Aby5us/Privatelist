@@ -451,7 +451,7 @@ http://iptv.streamhispanatv.net:25461/playgt/123456/75
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/953014449069174784/NS3yRj09_400x400.jpg", Canal claro
-http://190.83.119.67:8000/play/a0oo
+http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iMxAefNJD-o06jtP488X9sVo/ts
 
 #EXTINF:-1 tvg-logo="http://www.canaldahd.com/archivos/2022/02/cropped-canalicon.png",Canalda
 https://canaldahd.hostlagarto.com:3546/live/canaldahdlive.m3u8
@@ -563,7 +563,10 @@ http://mastertv.pro:8080/David/123456789/6199
 
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/1498737808852328449/v9vIlkyZ_400x400.jpg",Clic tv
 https://patagoniaip.trapemn.tv:1936/comunales/clicktv1.stream/playlist.m3u8
- 
+
+#EXTINF:-1, tvg-logo="", Clips tv
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7ulD9Icp7Sc4paGNf4qiZUkvWeyhlPFH8KLge3vGQ2aYDPjvovMM88m-5VC6IdFrCg&usqp=CAU", Club tv
 https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8
 
@@ -740,9 +743,15 @@ https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G-Yqp4Yvn8E/hqdefault.jpg", Energeek
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Energeek 4
+https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1507190273662726147/sS_Z9Ki7_400x400.jpg", Energeek Fanpop 
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", Energeek radio
+https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FOqg477XsAYGqiO?format=jpg&name=large",Energeek Wowly
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
@@ -812,6 +821,9 @@ http://190.108.83.142:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/frata-tv.jpg", Frata tv
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="", Frecuencia musical fusion
+https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png/v1/fill/w_1280,h_720,al_c/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png",Full channel
 https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
@@ -1231,7 +1243,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://video.ejeserver.com/live/nets.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/a/a2/Nextv_Panama_actual.png/revision/latest?cb=20201010211616&path-prefix=es",NEX
-http://boomwolk.site:8880/Barcelona/123456789/143505
+http://live.detodotvplay.com:8080/becerra/ricardo45/41543
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEfoNek_EuNksa9DWWm9KxmWWIXHNP1bwKQ&usqp=CAU", Nexotv 
 https://mediacpstreamchile.com:1936/nexotv/nexotv/playlist.m3u8
