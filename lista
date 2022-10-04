@@ -315,6 +315,9 @@ https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Canal_6_Nicaraguense.png/150px-Canal_6_Nicaraguense.png", Canal 6 Nicaraguense
 http://138.117.4.70:8075/channel6/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Canal 6 Poman
+https://streamcasthd.com:19360/radiovision939/radiovision939.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRHbMf6g9h72T7Of6yPll1SO6oRxKEGe4xKmdhWrw=s900-c-k-c0x00ffffff-no-rj", Canal 7 jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
  
@@ -633,6 +636,9 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 (#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dnk9XbJ8XEJYkLX_vaEqcVJuXMJZ8pp2sI28RV_uG96YXeFmbxBfMdN8hGeiqhY7s9gD", Ctv digital
 https://stmv.panel.grupolimalive.com/digitaltv12/digitaltv12/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="",Cvisión tv
+https://stream.cvisiontv.com/cvision_stream.m3u8
+ 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_N9oMWZ_H0A/maxresdefault.jpg", Daja tv
 https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
 
@@ -800,7 +806,10 @@ http://159.203.148.226/live/farra_low.m3u8
  
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GnpPRYgwce.png", Fiesta tv
 https://videostreaming.cloudserverlatam.com:443/8052/8052/playlist.m3u8
-  
+
+#EXTINF:-1 tvg-logo="", Fm mas
+https://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" ,Foodnetwork
 http://fivetv.org:25461/Hannah21/Hannah21/12561
  
@@ -822,7 +831,7 @@ http://190.108.83.142:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/frata-tv.jpg", Frata tv
 https://cdn9.streamgato.us:3602/live/fratatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="", Frecuencia musical fusion
+#EXTINF:-1 tvg-logo="", Frecuencia musical
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png/v1/fill/w_1280,h_720,al_c/7acae1_8ef862a3f2334666b4ba951d9e777cd1~mv2.png",Full channel
@@ -932,7 +941,10 @@ http://live.detodotvplay.com:8080/becerra/ricardo45/32354
  
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/I3sfoXOrqC-40_6l8s8-JAWZHr7qJggwr9-vmG3v2y4LRUDwqoRWHRogAhKXRGll_DkanXVGsQ=s900-c-k-c0x00ffffff-no-rj", Hito cero tv
 https://5ff3d9babae13.streamlock.net:443/8018/8018/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-logo="", Hits 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLReVlotvTTciAFdIDfp9wcl0OYzgYjnm5G07BE6sw=s176-c-k-c0x00ffffff-no-rj-mo",Home and Health
 http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iMxm9dtacdzFF9plTeBND1lw/ts
  
@@ -1983,6 +1995,9 @@ http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iM35soCKMlI0rL5aHEs
 #EXTINF:-1 tvg-logo="https://img.streann.com/upload2/1634228900538.png", Tv max
 https://streaming.ath.cx:1936/tvmax/tvmax/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", Tv max cb
+https://panel.dattalive.com/8106/8106/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png",TVN
 http://odenfull.co:2086/NATALY4334/20TORRE50s/174070
  
@@ -2126,6 +2141,9 @@ https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_a1343f704ae0412ba28bab4239e78411~mv2.png/v1/fill/w_540,h_540,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/visiontv.png", Visión tv
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 tvg-logo="", Visión sur tv
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1208_Viwix_TV_Music.png",Viwix accion
 https://s2.tvdatta.com:3457/hybrid/play.m3u8
