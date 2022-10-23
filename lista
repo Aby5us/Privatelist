@@ -30,10 +30,10 @@ http://grootplay.com:25461/joseluis/joseluis/64800
 #EXTINF:-1 tvg-logo="https://images.mediotiempo.com/B3n5RHKNvko45niZjH2z3ioy5Xc=/958x596/uploads/media/2020/03/30/logo-lucha-libre-aaa_46_0_868_540.jpg" ,AAA Wrestling
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF:-1 tvg-logo="https://i0.wp.com/conectatetvpr.com/wp-content/uploads/2019/12/FOTO-ACS-N.jpg?fit=768%2C768&ssl=1", ACS network 
+(#EXTINF:-1 tvg-logo="https://i0.wp.com/conectatetvpr.com/wp-content/uploads/2019/12/FOTO-ACS-N.jpg?fit=768%2C768&ssl=1", ACS network 
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image49241220346.jpg", Activatv
+(#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image49241220346.jpg", Activatv
 https://streamtv.mediasector.es/hls/activatv/.m3u8
  
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-iAsWzG0R1n8/XxtabcoDIXI/AAAAAAABA9g/uTtF8CobHJsJIzD8rOie4H8ySKWXNB4QwCK4BGAYYCw/s400/afizzionados.png",Afizzionados
@@ -42,7 +42,7 @@ http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iM3zFi0Bvu2VV7Llpgv
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRxRpUE3h2HUbAYPT8pxXBnRe0b-I0C4_NP1Jqw=s900-c-k-c0x00ffffff-no-rj", Agro tv
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg", Alegrando tv
+(#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg", Alegrando tv
 https://cdn2.streamgato.us/alegrandotv/alegrandotv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9ae80e_5c0aadb4185d40cbbf74429d9b0abdd9~mv2.png/v1/fill/w_2500,h_2172,al_c/9ae80e_5c0aadb4185d40cbbf74429d9b0abdd9~mv2.png" ,Alegría tv
@@ -57,7 +57,7 @@ https://vd01.streaminghd.net.ar:3056/live/albardonlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2022/04/atv39-700x420.jpg", Almaya tv
 https://59ce1298bfb98.streamlock.net:443/almayatv/almayatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://alpavision.com.co/wp-content/uploads/2020/11/baner-canal2-01-300x300-2.png", Alpavision
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_evBMYfytoOs/SukkmyoEZpI/AAAAAAAAAAo/5REqfzyxG4M/S1600-R/alpavision+22.JPG", Alpavision
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yACFGtBzI_R0s-XY2r3wVTZW4VE4uMxNW2IkXAramPrckFmihjalpwvaFfhzu0SwRg0", Alsacias tv
@@ -66,13 +66,13 @@ https://emisoras.hn:8081/atv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDjpHFjukybCrDHzKd3uIuWpH5a5A7_AO756YGp-_qsV9SKeIYKuWgOgxVgJCZ6xBvEY0&usqp=CAU", Alternativa tv
 https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CK-NOIUWgAAwoZg.jpg", Amazonas tv
+(#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CK-NOIUWgAAwoZg.jpg", Amazonas tv
 https://stmv.panel.grupolimalive.com/amazonastv/amazonastv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png",AMC 
 http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iM7VuUaUGk-vCCmztsw03JWg/ts
 
-#EXTINF:-1 tvg-logo="", America Argentina 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", America Argentina 
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBEm57eM_uGTOgGqotvWXATIcgqsl4IcztVJUMciMBc2t-jOkOGBQn6p-eTlLdsr28hMQ&usqp=CAU", América Perú
@@ -84,7 +84,7 @@ https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/animal_planet_thumb.png",Animal Planet
 http://stalkertvlatinopanel.com:8080/play/T5OL6xfb8POgPGZYkO4iM-Nf65TcW5RmiN_2qA51kaA/ts
  
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BKQXZ8btQA0/YI-U16p_XcI/AAAAAAAAQMw/fWaSAqWLv10EWBmbzQQhfQIOPJ2SAK1CQCLcBGAsYHQ/s800/ANIMAX.jpg" , Animax
+(#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BKQXZ8btQA0/YI-U16p_XcI/AAAAAAAAQMw/fWaSAqWLv10EWBmbzQQhfQIOPJ2SAK1CQCLcBGAsYHQ/s800/ANIMAX.jpg" , Animax
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8 
  
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VHL3ODlwM6w/XvJl99mYfcI/AAAAAAAALQU/8_92mMGLcfEFFZnonU3-d5Tl1r60IwQTQCLcBGAsYHQ/s640/aaaaaaaaaa.png" , Anime
@@ -99,7 +99,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc87
 #EXTINF:-1 tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2020/08/19170821/PlutoTV_Logo_Hero_RGB_Color.jpg", Anime heroes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
-#EXTINF=-1 tvg-logo="https://azxtv.com/aztv.png", Anime zone tv
+(#EXTINF=-1 tvg-logo="https://azxtv.com/aztv.png", Anime zone tv
 http://azxtv.com/hls/stream.m3u8
  
 (#EXTINF=-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20180531073555", Aniplus lat
